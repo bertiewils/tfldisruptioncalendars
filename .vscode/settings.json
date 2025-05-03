@@ -1,0 +1,13 @@
+{
+    "python.analysis.ignore": [
+        "*"
+    ], // Disable pylance in favour of ruff https://github.com/astral-sh/ruff-vscode/issues/133#issuecomment-1455085053
+    "editor.formatOnSave": true,
+    "[python]": {
+        "editor.formatOnSave": true,
+        "editor.defaultFormatter": "charliermarsh.ruff",
+        "editor.codeActionsOnSave": {
+            "source.organizeImports": "explicit"
+        }
+    }
+}
