@@ -146,4 +146,7 @@ if __name__ == "__main__":
     parser.add_argument("-s", "--station_ids", type=str, help="Comma separated list of station NaptanIDs to generate")
     args = parser.parse_args()
 
+    if len(TFL_API_KEY) == 0:
+        logging.warning("No TFL API key provided. You will be rate limited")
+
     main(modes=args.modes, station_ids=args.station_ids)
