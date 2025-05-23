@@ -101,6 +101,14 @@ def main(modes=None, station_ids=None):
             for station in stations:
                 generate_ics(station["naptanId"], station["commonName"])
 
+                relevant_modes = [mode for mode in station["modes"] if mode in MODES]
+                all_stations.append(
+                    {"naptanId": station["naptanId"], "commonName": station["commonName"], "modes": relevant_modes}
+                )
+
+        with open(f"{CALENDAR_OUTPUT_DIR}/all.json", "w") as file:
+            json.dump(all_stations, file, indent=4)
+
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Generate tube disruption calendars")
