@@ -1,0 +1,35 @@
+site_name: TfL Disruption Calendars
+site_url: https://tfldisruptioncalendars.uk
+
+theme:
+  name: material
+  palette:
+    # Light mode
+    - scheme: default
+      primary: blue
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    # Dark mode
+    - scheme: slate
+      primary: blue
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+
+plugins:
+  - search
+  - gen-files:
+      scripts:
+        - scripts/gen_calendar_docs.py
+
+markdown_extensions:
+  - admonition
+
+# nav:
+#   - Home: index.md
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/bertiewils/tfldisruptioncalendars
