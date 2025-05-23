@@ -20,7 +20,8 @@ TFL_API_BASE = "https://api.tfl.gov.uk"
 ALL_MODES = "dlr,elizabeth-line,overground,tube"
 MODES = "overground"
 STOP_TYPES = ["NaptanMetroStation", "NaptanRailStation", "TransportInterchange"]
-CALENDAR_OUTPUT_DIR = "calendars"
+CALENDAR_OUTPUT_DIR = "docs/calendars"
+TFL_API_KEY = getenv("TFL_API_KEY", "")
 
 
 def get_tube_stations(modes):
