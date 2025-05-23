@@ -1,9 +1,11 @@
 #!/usr/bin/env python3
 
 import argparse
+import json
 import logging
 from datetime import date
 from math import ceil
+from os import getenv
 
 import requests
 from dateutil.parser import isoparse
@@ -11,20 +13,49 @@ from ical.calendar import Calendar
 from ical.calendar_stream import IcsCalendarStream
 from ical.event import Event
 
+from utils import listToCSV
+
 logging.basicConfig(
     level=logging.INFO,
     format="%(asctime)s - %(levelname)s - %(message)s",
 )
 
 TFL_API_BASE = "https://api.tfl.gov.uk"
-ALL_MODES = "dlr,elizabeth-line,overground,tube"
-MODES = "overground"
+MODES = ["dlr", "elizabeth-line", "overground", "tube"]
 STOP_TYPES = ["NaptanMetroStation", "NaptanRailStation", "TransportInterchange"]
 CALENDAR_OUTPUT_DIR = "docs/calendars"
 TFL_API_KEY = getenv("TFL_API_KEY", "")
 
 
-def get_tube_stations(modes):
+def make_request(endpoint: str, params: dict = None) -> requests.Response:
+    """
+    Makes a GET request to the given endpoint.
+
+    Args:
+        endpoint (str): The API endpoint path.
+        params (dict): Additional query parameters for the request.
+
+    Returns:
+        Response: The response object from the request.
+    """
+    if params is None:
+        params = {}
+    params["app_key"] = TFL_API_KEY
+
+    logging.debug(f"Making request to {TFL_API_BASE}{endpoint} with params {params}")
+    response = requests.get(f"{TFL_API_BASE}{endpoint}", params=params)
+    response.raise_for_status()
+    return response
+
+
+def get_stoppoints_by_mode(modes):
+    """
+    Generator function to retrieve StopPoints from the TFL API.
+    Args:
+        modes (str): Comma-separated string of transport modes.
+    Yields:
+        dict: A dictionary containing the stop points for each page.
+    """
     session = requests.Session()
     url = f"{TFL_API_BASE}/StopPoint/Mode/{modes}"
 
@@ -38,8 +69,8 @@ def get_tube_stations(modes):
 
 
 def lookup_station_name(station_id):
-    url = f"{TFL_API_BASE}/StopPoint/{station_id}"
-    res = requests.get(url)
+    path = f"/StopPoint/{station_id}"
+    res = make_request(path)
     if res.status_code == 200:
         return res.json().get("commonName")
     else:
@@ -52,13 +83,17 @@ def generate_ics(station_id, station_name):
 
     calendar = Calendar()
 
-    disruptions_url = f"{TFL_API_BASE}/StopPoint/{station_id}/Disruption"
-    response = requests.get(
-        disruptions_url,
+    disruptions_path = f"/StopPoint/{station_id}/Disruption"
+    response = make_request(
+        disruptions_path,
         params={"getFamily": "true", "includeRouteBlockedStops": "true", "flattenResponse": "true"},
     )
     disruptions = response.json()
-    planned_works = [disruption for disruption in disruptions if disruption["appearance"] == "PlannedWork"]
+    planned_works = [
+        disruption
+        for disruption in disruptions
+        if disruption["appearance"] == "PlannedWork" and disruption["mode"] in MODES
+    ]
     logging.info(f"Found {len(planned_works)} planned works in {len(disruptions)} disruptions for {station_name}")
 
     if len(planned_works) > 0:
@@ -69,13 +104,6 @@ def generate_ics(station_id, station_name):
                 end=isoparse(work["toDate"]).date(),
             )
             calendar.events.append(event)
-        # calendar.events.append(
-        #     Event(summary="Event summary", start=date(2022, 7, 3), end=date(2022, 7, 4)),
-        # )
-
-        print("Printing event summaries:")
-        for event in calendar.timeline:
-            print(event.summary)
 
     with open(f"{CALENDAR_OUTPUT_DIR}/{station_id}.ics", "w") as ics_file:
         ics_file.write(IcsCalendarStream.calendar_to_ics(calendar))
@@ -90,14 +118,15 @@ def main(modes=None, station_ids=None):
             station_name = lookup_station_name(station_id)
             generate_ics(station_id, station_name)
     elif modes:
-        for mode in modes.split(","):
-            for page in get_tube_stations(modes=mode):
-                stations = [station for station in page["stopPoints"] if station["stopType"] in STOP_TYPES]
-                for station in stations:
-                    generate_ics(station["naptanId"], station["commonName"])
-    else:
-        for page in get_tube_stations(modes=ALL_MODES):
+        for page in get_stoppoints_by_mode(modes=modes):
             stations = [station for station in page["stopPoints"] if station["stopType"] in STOP_TYPES]
+            for station in stations:
+                generate_ics(station["naptanId"], station["commonName"])
+    else:
+        all_stations = []
+        for page in get_stoppoints_by_mode(modes=listToCSV(MODES)):
+            stations = [station for station in page["stopPoints"] if station["stopType"] in STOP_TYPES]
+
             for station in stations:
                 generate_ics(station["naptanId"], station["commonName"])
 
