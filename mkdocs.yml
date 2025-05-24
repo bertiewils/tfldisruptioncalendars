@@ -21,7 +21,7 @@ plugins:
   - search
   - gen-files:
       scripts:
-        - scripts/gen_calendar_docs.py
+        - scripts/gen_station_docs.py
 
 markdown_extensions:
   - admonition

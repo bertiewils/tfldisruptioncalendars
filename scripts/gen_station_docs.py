@@ -3,6 +3,7 @@ import json
 import mkdocs_gen_files
 
 FILE = "docs/calendars/all.json"
+SITE_URL = "tfldisruptioncalendars.uk"
 
 with open(FILE, "r") as file:
     all_stations = json.load(file)
@@ -23,7 +24,7 @@ for letter in sorted(first_letters):
                 station_id = station["naptanId"]
                 station_name = station["commonName"]
                 station_modes = ", ".join(station["modes"])
-                calendar_link = f"[CLICK THIS](webcal:/calendars/{station_id}.ics)"
+                calendar_link = f"[Add to calendar](webcal://{SITE_URL}/calendars/{station_id}.ics)"
 
                 print(f"| {station_id} | {station_name} | {station_modes} | {calendar_link} |", file=f)
 
