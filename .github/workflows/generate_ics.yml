@@ -1,0 +1,36 @@
+name: Generate ics files
+
+on:
+  schedule:
+    - cron: "37 4 * * *" # nightly
+  workflow_dispatch:
+
+permissions:
+  actions: write # to delete cache
+
+jobs:
+  generate-ics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4.2.2
+      - uses: actions/setup-python@v5.6.0
+        with:
+          python-version: 3.x
+      - uses: actions/cache@v4.2.3
+        with:
+          path: ~/.cache/pip
+          key: ${{ runner.os }}-pip-${{ hashFiles('requirements.txt') }}
+          restore-keys: |
+            ${{ runner.os }}-pip-
+      - run: pip install -r requirements.txt
+
+      - name: Generate ICS files
+        env:
+          TFL_API_KEY: ${{ secrets.TFL_API_KEY }}
+        run: python generate_ics.py
+
+      - run: gh cache delete ics-files --repo={{ github.repository }}
+      - uses: actions/cache/save@v4.2.3
+        with:
+          path: docs/calendars
+          key: ics-files
