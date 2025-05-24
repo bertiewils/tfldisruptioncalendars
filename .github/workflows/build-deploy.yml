@@ -5,12 +5,13 @@ on:
       - main
   schedule:
     - cron: "37 4 * * *" # nightly
+  workflow_dispatch:
 
 permissions:
   contents: write
 jobs:
   generate-ics:
-    if: github.event_name == 'schedule' # Only run this job on the daily schedule
+    if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4
