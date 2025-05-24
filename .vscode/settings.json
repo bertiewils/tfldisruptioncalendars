@@ -27,6 +27,7 @@
         "ical",
         "isoparse",
         "levelname",
+        "mkdocs",
         "naptan",
         "stoppoints",
         "webcal"

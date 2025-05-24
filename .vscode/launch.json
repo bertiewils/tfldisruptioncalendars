@@ -1,0 +1,31 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "generate_ics with station",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}/generate_ics.py",
+            "console": "integratedTerminal",
+            "args": "--stations 940GZZLUSUH"
+        },
+        {
+            "name": "generate_ics with mode",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}/generate_ics.py",
+            "console": "integratedTerminal",
+            "args": "--modes overground"
+        },
+        {
+            "name": "generate_ics",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}/generate_ics.py",
+            "console": "integratedTerminal"
+        }
+    ]
+}
