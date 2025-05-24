@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//github.com/allenporter/ical//9.0.3//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20250524T135033Z
+UID:0fc2c512-38a6-11f0-96ae-6045bd039f52
+DTSTART:20250512
+DTEND:20250526
+SUMMARY:Interchange Message: WHITECHAPEL STATION: Monday 12 until Sunday 25
+  May\, no step-free access to/from the station at the Whitechapel Road 
+ entrance. To enter and exit the station step-free\, please use the Durward
+  Street entrance/exit.
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250524T135033Z
+UID:0fc2c513-38a6-11f0-96ae-6045bd039f52
+DTSTART:20250512
+DTEND:20250526
+SUMMARY:Interchange Message: WHITECHAPEL STATION: Monday 12 until Sunday 25
+  May\, no step-free access to/from the station at the Whitechapel Road 
+ entrance. To enter and exit the station step-free\, please use the Durward
+  Street entrance/exit.
+END:VEVENT
+END:VCALENDAR

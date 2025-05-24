@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+PRODID:-//github.com/allenporter/ical//9.0.3//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20250524T134839Z
+UID:cc069914-38a5-11f0-96ae-6045bd039f52
+DTSTART:20250212
+DTEND:20251201
+SUMMARY:Interchange Message: GREEN PARK STATION: Until Autumn 2025\, no 
+ step-free access to/from Jubilee line. Please travel via Westminster and 
+ Victoria\, using the Victoria line to/from Green Park.
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250524T134839Z
+UID:cc069915-38a5-11f0-96ae-6045bd039f52
+DTSTART:20250524
+DTEND:20250527
+SUMMARY:Information: PICCADILLY LINE: Saturday 24\, from 0100\, and all day
+  Sunday 25 and Bank Holiday Monday 26 May\, no service between Hammersmith
+  and Cockfosters. Replacement buses operate.
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+PRODID:-//github.com/allenporter/ical//9.0.3//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20250524T134748Z
+UID:acf6f2db-38a5-11f0-96ae-6045bd039f52
+DTSTART:20250413
+DTEND:20250815
+SUMMARY:Interchange Message: Bank / Monument: reduced escalator service - 
+ until 15 August 2025\, there is no down escalator in service between the 
+ District line at Monument and the DLR at Bank. This is due to planned 
+ maintenance work on the escalator.
+END:VEVENT
+END:VCALENDAR
