@@ -29,7 +29,7 @@ jobs:
           TFL_API_KEY: ${{ secrets.TFL_API_KEY }}
         run: python generate_ics.py
 
-      - run: gh cache delete ics-files --repo=${{ github.repository }}
+      - run: gh cache delete ics-files --repo=${{ github.repository }} || true
         env:
           GH_TOKEN: ${{ github.token }}
       - uses: actions/cache/save@v4.2.3
