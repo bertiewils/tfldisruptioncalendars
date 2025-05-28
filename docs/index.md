@@ -16,3 +16,9 @@ Use this to see if your station has any upcoming disruptions that clash with you
 !!! important
 
     You must add the calendar from the URL. Downloading the ics file and importing it will mean you don't get any updates.
+
+
+---
+
+![Calendars last generated date](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Frepos%2Fbertiewils%2Ftfldisruptioncalendars%2Factions%2Fworkflows%2F164065494%2Fruns%3Fstatus%3Dcompleted%26per_page%3D1&query=%24.workflow_runs%5B0%5D.run_started_at&style=flat-square&label=Calendars%20last%20generated)
+![Docs last deployed date](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Frepos%2Fbertiewils%2Ftfldisruptioncalendars%2Factions%2Fworkflows%2F164065493%2Fruns%3Fstatus%3Dcompleted%26per_page%3D1&query=%24.workflow_runs%5B0%5D.run_started_at&style=flat-square&label=Docs%20last%20deployed)

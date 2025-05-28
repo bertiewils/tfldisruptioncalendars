@@ -53,7 +53,6 @@ deactivate
 - Frontend single page with search and copy url button
 - Filter disruptions by mode DONE
 - Make the index json available (fake api?)
-- Actions badge to show if failing
 - add link to https://www.homepages.ucl.ac.uk/~ucahmto/programming/2024/11/02/tube-disruption-calendar.html
 - add disclaimer to site
 - add app_id to reqs?
