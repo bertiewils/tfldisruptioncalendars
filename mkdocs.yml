@@ -3,6 +3,8 @@ site_url: https://tfldisruptioncalendars.uk
 
 theme:
   name: material
+  icon:
+    logo: material/calendar
   palette:
     # Light mode
     - scheme: default
@@ -25,9 +27,10 @@ plugins:
 
 markdown_extensions:
   - admonition
-
-# nav:
-#   - Home: index.md
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
 
 extra:
   social:
