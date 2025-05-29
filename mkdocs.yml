@@ -6,13 +6,13 @@ theme:
   palette:
     # Light mode
     - scheme: default
-      primary: blue
+      primary: custom
       toggle:
         icon: material/brightness-7
         name: Switch to dark mode
     # Dark mode
     - scheme: slate
-      primary: blue
+      primary: custom
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
@@ -33,3 +33,6 @@ extra:
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/bertiewils/tfldisruptioncalendars
+
+extra_css:
+  - stylesheets/extra.css
