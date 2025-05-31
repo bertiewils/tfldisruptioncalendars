@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//github.com/allenporter/ical//9.0.3//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20250531T045310Z
+UID:266e6e7f-3ddb-11f0-8a64-6045bd00fbdb
+DTSTART:20250531
+DTEND:20250602
+SUMMARY:Information: JUBILEE LINE: Saturday 31 May\, from 1100\, and all 
+ day Sunday 1 June (including Saturday Night Tube)\, no service between 
+ Waterloo and Stanmore. Replacement buses operate.
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250531T045310Z
+UID:266e6e80-3ddb-11f0-8a64-6045bd00fbdb
+DTSTART:20250531
+DTEND:20250602
+SUMMARY:Information: METROPOLITAN LINE: Saturday 31 May and Sunday 1 June\,
+  no service between Aldgate and Watford. Trains will continue to operate 
+ between Harrow-on-the-Hill and Amersham / Chesham\, but operate non-stop 
+ between Harrow-on-the-Hill and Moor Park. CHILTERN RAILWAYS services 
+ continue to operate between Marylebone and Amersham. Replacement buses 
+ operate.
+END:VEVENT
+END:VCALENDAR

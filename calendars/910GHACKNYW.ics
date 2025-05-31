@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+PRODID:-//github.com/allenporter/ical//9.0.3//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20250531T045316Z
+UID:2a0c85e9-3ddb-11f0-8a64-6045bd00fbdb
+DTSTART:20250531
+DTEND:20250601
+SUMMARY:Part Closure: MILDMAY LINE: Saturday 31 May and Sunday 1 June\, no 
+ service between Camden Road and Stratford. Rail replacement buses will run
+  as follows: Service S: Camden Road - Holloway Road (for Piccadilly line) 
+ - Highbury & Islington - Canonbury - Dalston Junction (for Dalston 
+ Kingsland) - Hackney Central - Homerton - Hackney Wick - Stratford. Use 
+ alternative Overground services between Highbury & Islington and Dalston 
+ Junction (for Dalston Kingsland). For Caledonian Road & Barnsbury use 
+ local bus route 274 to/from Camden Road or walk to / from Highbury & 
+ Islington.
+END:VEVENT
+END:VCALENDAR

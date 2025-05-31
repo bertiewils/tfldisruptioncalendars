@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//github.com/allenporter/ical//9.0.3//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20250531T045450Z
+UID:620a4634-3ddb-11f0-8a64-6045bd00fbdb
+DTSTART:20250526
+DTEND:20250609
+SUMMARY:Interchange Message: WHITECHAPEL STATION: Monday 26 May until 
+ Sunday 8 June\, no direct lift service between the ticket hall and Lower 
+ Concourse. Alternative lifts for step-free access between the ticket 
+ hall\, Lower Concourse\, Elizabeth line and Windrush line will be 
+ available to complete your journey.
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250531T045450Z
+UID:620a4635-3ddb-11f0-8a64-6045bd00fbdb
+DTSTART:20250526
+DTEND:20250609
+SUMMARY:Interchange Message: WHITECHAPEL STATION: Monday 26 May until 
+ Sunday 8 June\, no direct lift service between the ticket hall and Lower 
+ Concourse. Alternative lifts for step-free access between the ticket 
+ hall\, Lower Concourse\, Elizabeth line and Windrush line will be 
+ available to complete your journey.
+END:VEVENT
+END:VCALENDAR

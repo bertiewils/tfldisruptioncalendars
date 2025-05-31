@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//github.com/allenporter/ical//9.0.3//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20250531T045409Z
+UID:4a0833a6-3ddb-11f0-8a64-6045bd00fbdb
+DTSTART:20250506
+DTEND:20250801
+SUMMARY:Closure: RODING VALLEY STATION: From Tuesday 6 May until end of 
+ July 2025\, westbound trains (towards Woodford) will not stop at the 
+ station and the footbridge will be closed. Access to and exit from the 
+ station will be via Station Way only. Please travel via eastbound trains 
+ and change at Chigwell\, or for step-free access\, change at Hainault or 
+ use local London Buses route W14 to Woodford.
+END:VEVENT
+END:VCALENDAR

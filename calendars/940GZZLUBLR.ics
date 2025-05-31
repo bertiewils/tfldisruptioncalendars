@@ -1,0 +1,13 @@
+BEGIN:VCALENDAR
+PRODID:-//github.com/allenporter/ical//9.0.3//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20250531T045236Z
+UID:1207cc98-3ddb-11f0-8a64-6045bd00fbdb
+DTSTART:20250108
+DTEND:20250801
+SUMMARY:Interchange Message: BLACKHORSE ROAD STATION: Until July 2025\, 
+ there is no down escalator service to the Victoria line due to planned 
+ maintenance works. Please use the fixed staircase to access the platforms.
+END:VEVENT
+END:VCALENDAR
