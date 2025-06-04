@@ -12,9 +12,12 @@ Modes: {station_modes}
 
 ID: {station_id}
 
-[Add to calendar :fontawesome-brands-apple:]({webcal_link}){{ .md-button }}
-[Add to calendar :fontawesome-brands-google:](https://www.google.com/calendar/render?cid={webcal_link}){{ .md-button }}
-[Copy to clipboard :fontawesome-regular-copy:](javascript:;){{ data-clipboard-text="{webcal_link}"  .md-button }}
+<div class="grid cards" markdown>
+- [Add to calendar :fontawesome-brands-apple:]({webcal_link})
+- [Add to calendar :fontawesome-brands-google:](https://calendar.google.com/calendar/r?cid={webcal_link})
+- [Add to calendar :material-microsoft-outlook:](https://outlook.office.com/calendar/0/addfromweb?url={webcal_link})
+- [Copy to clipboard :fontawesome-regular-copy:](javascript:;){{ data-clipboard-text="{webcal_link}" }}
+</div>
 
 """
 
