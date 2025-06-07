@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+PRODID:-//github.com/allenporter/ical//9.0.3//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20250607T045310Z
+UID:4fb9ba1c-435b-11f0-8992-7c1e52915cdf
+DTSTART:20250607
+DTEND:20250607
+SUMMARY:Information: Tottenham Hale Station: Beyonce Concerts at Tottenham 
+ Hotspur Stadium on Saturday 7\, Tuesday 10\, Thursday 12\, Saturday 14 and
+  Monday 16 June (1700 start): Tottenham Hale station is expected to be 
+ extremely busy between 1530 and 1700 and between 2230 and 2355. You may 
+ find it easier to use Northumberland Park station where additional Greater
+  Anglia and Stansted Express trains will call before and after the match\,
+  please board one of the front 7 coaches for Northumberland Park.
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250607T045310Z
+UID:4fb9ba1d-435b-11f0-8992-7c1e52915cdf
+DTSTART:20250607
+DTEND:20250607
+SUMMARY:Information: Tottenham Hale Station: Beyonce Concerts at Tottenham 
+ Hotspur Stadium on Saturday 7\, Tuesday 10\, Thursday 12\, Saturday 14 and
+  Monday 16 June (1700 start): Tottenham Hale station is expected to be 
+ extremely busy between 1530 and 1700 and between 2230 and 2355. You may 
+ find it easier to use Northumberland Park station where additional Greater
+  Anglia and Stansted Express trains will call before and after the match\,
+  please board one of the front 7 coaches for Northumberland Park.
+END:VEVENT
+END:VCALENDAR

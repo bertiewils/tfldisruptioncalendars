@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+PRODID:-//github.com/allenporter/ical//9.0.3//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20250607T045308Z
+UID:4dafcb26-435b-11f0-8992-7c1e52915cdf
+DTSTART:20231116
+DTEND:20251130
+SUMMARY:Information: Surrey Quays station: The doors on the last carriage 
+ of trains on the southbound platform will not open due to station 
+ improvement work. Please use the front four carriages of the train to 
+ board or alight trains.
+END:VEVENT
+END:VCALENDAR

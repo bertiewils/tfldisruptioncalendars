@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+PRODID:-//github.com/allenporter/ical//9.0.3//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20250607T045311Z
+UID:4fb9ba1f-435b-11f0-8992-7c1e52915cdf
+DTSTART:20250607
+DTEND:20250609
+SUMMARY:Part Closure: DOCKLANDS LIGHT RAILWAY: Saturday 7 and Sunday 8 
+ June\, no service between Bank / Tower Gateway and Canning Town / 
+ Lewisham\, or between Stratford and Canary Wharf. Replacement buses 
+ operate.
+END:VEVENT
+END:VCALENDAR

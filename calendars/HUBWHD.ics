@@ -1,0 +1,13 @@
+BEGIN:VCALENDAR
+PRODID:-//github.com/allenporter/ical//9.0.3//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20250607T045319Z
+UID:55392a02-435b-11f0-8992-7c1e52915cdf
+DTSTART:20250607
+DTEND:20250609
+SUMMARY:Information: MILDMAY LINE: Saturday 7 and Sunday 8 June\, a reduced
+  service will run between Willesden Junction and Camden Road all day. 
+ Trains will run every 15 minutes.
+END:VEVENT
+END:VCALENDAR
