@@ -1,0 +1,13 @@
+BEGIN:VCALENDAR
+PRODID:-//github.com/allenporter/ical//9.0.3//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20250614T045303Z
+UID:740c4254-48db-11f0-bb09-7c1e526d3440
+DTSTART:20250212
+DTEND:20251201
+SUMMARY:Interchange Message: GREEN PARK STATION: Until Autumn 2025\, no 
+ step-free access to/from Jubilee line. Please travel via Westminster and 
+ Victoria\, using the Victoria line to/from Green Park.
+END:VEVENT
+END:VCALENDAR

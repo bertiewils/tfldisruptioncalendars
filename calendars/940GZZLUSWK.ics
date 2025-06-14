@@ -1,0 +1,13 @@
+BEGIN:VCALENDAR
+PRODID:-//github.com/allenporter/ical//9.0.3//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20250614T045359Z
+UID:9581dd0e-48db-11f0-bb09-7c1e526d3440
+DTSTART:20250613
+DTEND:20250616
+SUMMARY:Closure: SOUTHWARK STATION: From 2300 Friday 13 and all day 
+ Saturday 14 and Sunday 15 June\, the station is closed. Please use 
+ Waterloo station instead.
+END:VEVENT
+END:VCALENDAR

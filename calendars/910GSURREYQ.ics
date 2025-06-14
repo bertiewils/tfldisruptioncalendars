@@ -1,0 +1,35 @@
+BEGIN:VCALENDAR
+PRODID:-//github.com/allenporter/ical//9.0.3//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20250614T045403Z
+UID:97324fca-48db-11f0-bb09-7c1e526d3440
+DTSTART:20231116
+DTEND:20251130
+SUMMARY:Information: Surrey Quays station: The doors on the last carriage 
+ of trains on the southbound platform will not open due to station 
+ improvement work. Please use the front four carriages of the train to 
+ board or alight trains.
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250614T045403Z
+UID:97324fcb-48db-11f0-bb09-7c1e526d3440
+DTSTART:20250614
+DTEND:20250616
+SUMMARY:Part Closure: WINDRUSH LINE: Saturday 14 and Sunday 15 June\, no 
+ service between Surrey Quays and Crystal Palace / West Croydon. There will
+  also be no SOUTHERN services between London Bridge and Crystal Palace / 
+ East Croydon (via Forest Hill). For New Cross Gate\, use New Cross\, and 
+ local buses for Penge West\, Anerley and Norwood Junction. Replacement 
+ buses operate between New Cross Gate and Crystal Palace via Brockley\, 
+ Honor Oak Park\, Forest Hill and Sydenham.
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250614T045403Z
+UID:97324fcc-48db-11f0-bb09-7c1e526d3440
+DTSTART:20250614
+DTEND:20250616
+SUMMARY:Information: WINDRUSH LINE: Saturday 14 and Sunday 15 June\, a 
+ reduced service operates between Dalston Junction and Surrey Quays.
+END:VEVENT
+END:VCALENDAR

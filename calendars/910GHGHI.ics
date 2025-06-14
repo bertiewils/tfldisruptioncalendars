@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+PRODID:-//github.com/allenporter/ical//9.0.3//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20250614T045322Z
+UID:7ef8b370-48db-11f0-bb09-7c1e526d3440
+DTSTART:20250614
+DTEND:20250616
+SUMMARY:Information: WINDRUSH LINE: Saturday 14 and Sunday 15 June\, a 
+ reduced service operates between Dalston Junction and Surrey Quays.
+END:VEVENT
+END:VCALENDAR
