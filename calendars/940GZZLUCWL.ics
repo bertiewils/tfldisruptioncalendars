@@ -1,0 +1,13 @@
+BEGIN:VCALENDAR
+PRODID:-//github.com/allenporter/ical//9.0.3//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20250615T045457Z
+UID:e1d7b210-49a4-11f0-bb09-000d3a3d970e
+DTSTART:20250615
+DTEND:20250616
+SUMMARY:Information: CENTRAL LINE: Sunday 15 June\, from 0100 approximately
+  (including Night Tube)\, no service between Leytonstone and Epping / 
+ Hainault (via Woodford). Replacement buses operate.
+END:VEVENT
+END:VCALENDAR

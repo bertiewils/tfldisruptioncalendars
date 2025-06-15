@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+PRODID:-//github.com/allenporter/ical//9.0.3//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20250615T045441Z
+UID:d85f0bca-49a4-11f0-bb09-000d3a3d970e
+DTSTART:20250615
+DTEND:20250615
+SUMMARY:Information: SUFFRAGETTE LINE: Sunday 15 June\, until 1000\, no 
+ service between Gospel Oak and Barking Riverside. Use local buses between 
+ South Tottenham and Barking via all reasonable routes or London 
+ Underground Victoria line (entrance/exit at Seven Sisters\, Tottenham 
+ Hale\, Blackhorse Road and Walthamstow Central stations) via any 
+ reasonable route\; London Underground Central line (entrance/exit at 
+ Leyton and Leytonstone stations) via any reasonable route\; or London 
+ Underground District / Hammersmith & City line (entrance/exit at East Ham 
+ and Barking) via any reasonable route. Use local bus routes EL1\, EL2 and 
+ EL3 for Barking Riverside. First through trains: Gospel Oak to Barking 
+ 0954\; Barking to Gospel Oak 1014
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250615T045441Z
+UID:d85f0bcb-49a4-11f0-bb09-000d3a3d970e
+DTSTART:20250615
+DTEND:20250616
+SUMMARY:Information: SUFFRAGETTE LINE: Sunday 15 June\, from 1000\, no 
+ service between Barking and Barking Riverside. Use local bus routes EL1\, 
+ EL2 and EL3 for Barking Riverside.
+END:VEVENT
+END:VCALENDAR

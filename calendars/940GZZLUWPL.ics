@@ -1,0 +1,51 @@
+BEGIN:VCALENDAR
+PRODID:-//github.com/allenporter/ical//9.0.3//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20250615T045624Z
+UID:15c81708-49a5-11f0-bb09-000d3a3d970e
+DTSTART:20250612
+DTEND:20250629
+SUMMARY:Information: WHITECHAPEL STATION: Thursday 12 until Saturday 28 
+ June\, reduced lift service between the Elizabeth line\, southbound 
+ Windrush line and Lower Concourse. One of the two lifts that serve these 
+ parts of the station will still be available.
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250615T045624Z
+UID:15c81709-49a5-11f0-bb09-000d3a3d970e
+DTSTART:20250612
+DTEND:20250629
+SUMMARY:Information: WHITECHAPEL STATION: Thursday 12 until Saturday 28 
+ June\, reduced lift service between the Elizabeth line\, southbound 
+ Windrush line and Lower Concourse. One of the two lifts that serve these 
+ parts of the station will still be available.
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250615T045624Z
+UID:15c8170a-49a5-11f0-bb09-000d3a3d970e
+DTSTART:20250615
+DTEND:20250615
+SUMMARY:Information: ELIZABETH LINE: Sunday 15 June\, until 0950\, no 
+ service between Paddington and Stratford / Abbey Wood. Trains operate 
+ between Reading / Heathrow and Paddington National Rail station\, and 
+ between Liverpool Street National Rail Station and Shenfield\, not serving
+  Whitechapel. Please use London Underground services to cross London.
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250615T045624Z
+UID:15c8170b-49a5-11f0-bb09-000d3a3d970e
+DTSTART:20250615
+DTEND:20250615
+SUMMARY:Information: WINDRUSH LINE: Saturday 14 and Sunday 15 June\, a 
+ reduced service operates between Dalston Junction and Surrey Quays.
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250615T045624Z
+UID:15c8170c-49a5-11f0-bb09-000d3a3d970e
+DTSTART:20250615
+DTEND:20250616
+SUMMARY:Information: WINDRUSH LINE: Saturday 14 and Sunday 15 June\, a 
+ reduced service operates between Dalston Junction and Surrey Quays.
+END:VEVENT
+END:VCALENDAR

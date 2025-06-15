@@ -1,0 +1,34 @@
+BEGIN:VCALENDAR
+PRODID:-//github.com/allenporter/ical//9.0.3//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20250615T045459Z
+UID:e3354874-49a4-11f0-bb09-000d3a3d970e
+DTSTART:20250615
+DTEND:20250616
+SUMMARY:Information: MILDMAY LINE: Sunday 15 June\, reduced service will 
+ run between Shepherd's Bush and Clapham Junction. A joint Mildmay line and
+  Southern service will run every 15 minutes.
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250615T045459Z
+UID:e3354875-49a4-11f0-bb09-000d3a3d970e
+DTSTART:20250615
+DTEND:20250616
+SUMMARY:Information: MILDMAY LINE: Sunday 15 June\, reduced service will 
+ run between Shepherd's Bush and Clapham Junction. A joint Mildmay line and
+  Southern service will run every 15 minutes.
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250615T045459Z
+UID:e3354876-49a4-11f0-bb09-000d3a3d970e
+DTSTART:20250615
+DTEND:20250616
+SUMMARY:Part Closure: WINDRUSH LINE: Sunday 15 June\, no service between 
+ Wandsworth Road and Clapham Junction. Trains will divert to/from Battersea
+  Park after Wandsworth Road. Use local buses via any reasonable route 
+ between Clapham Junction and Battersea Park / Surrey Quays or Southern 
+ trains between Battersea Park and Clapham Junction\, where tickets will be
+  accepted.
+END:VEVENT
+END:VCALENDAR

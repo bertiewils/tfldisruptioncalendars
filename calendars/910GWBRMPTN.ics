@@ -1,0 +1,13 @@
+BEGIN:VCALENDAR
+PRODID:-//github.com/allenporter/ical//9.0.3//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20250615T045619Z
+UID:1380bea5-49a5-11f0-bb09-000d3a3d970e
+DTSTART:20250615
+DTEND:20250616
+SUMMARY:Information: MILDMAY LINE: Sunday 15 June\, reduced service will 
+ run between Shepherd's Bush and Clapham Junction. A joint Mildmay line and
+  Southern service will run every 15 minutes.
+END:VEVENT
+END:VCALENDAR

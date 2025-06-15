@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+PRODID:-//github.com/allenporter/ical//9.0.3//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20250615T045620Z
+UID:1380bea7-49a5-11f0-bb09-000d3a3d970e
+DTSTART:20250615
+DTEND:20250615
+SUMMARY:Part Closure: WINDRUSH LINE: Saturday 14 and Sunday 15 June\, no 
+ service between Surrey Quays and Crystal Palace / West Croydon. There will
+  also be no SOUTHERN services between London Bridge and Crystal Palace / 
+ East Croydon (via Forest Hill). For New Cross Gate\, use New Cross\, and 
+ local buses for Penge West\, Anerley and Norwood Junction. Replacement 
+ buses operate between New Cross Gate and Crystal Palace via Brockley\, 
+ Honor Oak Park\, Forest Hill and Sydenham.
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250615T045620Z
+UID:1380bea8-49a5-11f0-bb09-000d3a3d970e
+DTSTART:20250615
+DTEND:20250616
+SUMMARY:Part Closure: WINDRUSH LINE: Saturday 14 and Sunday 15 June\, no 
+ service between Surrey Quays and Crystal Palace / West Croydon. There will
+  also be no SOUTHERN services between London Bridge and Crystal Palace / 
+ East Croydon (via Forest Hill). For New Cross Gate\, use New Cross\, and 
+ local buses for Penge West\, Anerley and Norwood Junction. Replacement 
+ buses operate between New Cross Gate and Crystal Palace via Brockley\, 
+ Honor Oak Park\, Forest Hill and Sydenham.
+END:VEVENT
+END:VCALENDAR

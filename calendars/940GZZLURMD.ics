@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+PRODID:-//github.com/allenporter/ical//9.0.3//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20250615T045550Z
+UID:02031dc2-49a5-11f0-bb09-000d3a3d970e
+DTSTART:20250615
+DTEND:20250616
+SUMMARY:Part Closure: MILDMAY LINE: Sunday 15 June\, no service between 
+ Gospel Oak and Richmond / Shepherds Bush\, A special train service 
+ operates between Stratford and Willesden Junction (Low Level) via all 
+ stations to Camden Road\, then South Hampstead\, Kilburn High Road\, 
+ Queens Park and Kensal Green. Use DISTRICT LINE services between 
+ Gunnersbury\, Kew Gardens and Richmond and local London Buses routes 220 
+ and 228 between Willesden Junction and Shepherds Bush. Replacement buses 
+ operate.
+END:VEVENT
+END:VCALENDAR

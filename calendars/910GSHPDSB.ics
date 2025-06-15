@@ -1,0 +1,44 @@
+BEGIN:VCALENDAR
+PRODID:-//github.com/allenporter/ical//9.0.3//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20250615T045554Z
+UID:03fe25f7-49a5-11f0-bb09-000d3a3d970e
+DTSTART:20250615
+DTEND:20250616
+SUMMARY:Information: MILDMAY LINE: Sunday 15 June\, reduced service will 
+ run between Shepherd's Bush and Clapham Junction. A joint Mildmay line and
+  Southern service will run every 15 minutes.
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250615T045554Z
+UID:03fe25f8-49a5-11f0-bb09-000d3a3d970e
+DTSTART:20250615
+DTEND:20250616
+SUMMARY:Part Closure: MILDMAY LINE: Sunday 15 June\, no service between 
+ Gospel Oak and Richmond / Shepherds Bush\, A special train service 
+ operates between Stratford and Willesden Junction (Low Level) via all 
+ stations to Camden Road\, then South Hampstead\, Kilburn High Road\, 
+ Queens Park and Kensal Green. Use DISTRICT LINE services between 
+ Gunnersbury\, Kew Gardens and Richmond and local London Buses routes 220 
+ and 228 between Willesden Junction and Shepherds Bush. Replacement buses 
+ operate.
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250615T045554Z
+UID:03fe25f9-49a5-11f0-bb09-000d3a3d970e
+DTSTART:20250319
+DTEND:20250901
+SUMMARY:Interchange Message: SHEPHERD'S BUSH (CENTRAL LINE) STATION: From 
+ Wednesday 19 March until late August\, no down escalator. Please take care
+  and hold the handrail as you walk down the central staircase\, which has 
+ 70 steps. This is while we carry out planned maintenance work on one 
+ escalator\, to ensure its continued reliability. During this work an 'up' 
+ escalator service will be available at all times. To avoid the stairs use 
+ these alternative routes\, especially if travelling with children or 
+ luggage: For eastbound journeys towards central London: use buses 31 or 
+ 228 from stop D in the bus station to Holland Park. For westbound journeys
+  towards Ealing Broadway or West Ruislip: use bus 228 from stop A in the 
+ bus station to White City.
+END:VEVENT
+END:VCALENDAR

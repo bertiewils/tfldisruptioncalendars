@@ -1,0 +1,36 @@
+BEGIN:VCALENDAR
+PRODID:-//github.com/allenporter/ical//9.0.3//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20250615T045607Z
+UID:0c8d97e8-49a5-11f0-bb09-000d3a3d970e
+DTSTART:20250614
+DTEND:20250616
+SUMMARY:Part Closure: DOCKLANDS LIGHT RAILWAY: Saturday 14 and Sunday 15 
+ June\, no service between Bank / Tower Gateway and Canning Town / 
+ Lewisham\, or between Stratford and Canary Wharf. Replacement buses 
+ operate.
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250615T045607Z
+UID:0c8d97e9-49a5-11f0-bb09-000d3a3d970e
+DTSTART:20250615
+DTEND:20250615
+SUMMARY:Information: ELIZABETH LINE: Sunday 15 June\, until 0950\, no 
+ service between Paddington and Stratford / Abbey Wood. Trains operate 
+ between Reading / Heathrow and Paddington National Rail station\, and 
+ between Liverpool Street National Rail Station and Shenfield\, not serving
+  Whitechapel. Please use London Underground services to cross London.
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250615T045607Z
+UID:0c8d97ea-49a5-11f0-bb09-000d3a3d970e
+DTSTART:20250615
+DTEND:20250615
+SUMMARY:Information: ELIZABETH LINE: Sunday 15 June\, until 0950\, no 
+ service between Paddington and Stratford / Abbey Wood. Trains operate 
+ between Reading / Heathrow and Paddington National Rail station\, and 
+ between Liverpool Street National Rail Station and Shenfield\, not serving
+  Whitechapel. Please use London Underground services to cross London.
+END:VEVENT
+END:VCALENDAR

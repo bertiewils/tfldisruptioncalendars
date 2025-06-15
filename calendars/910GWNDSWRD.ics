@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//github.com/allenporter/ical//9.0.3//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20250615T045616Z
+UID:1179ad78-49a5-11f0-bb09-000d3a3d970e
+DTSTART:20250615
+DTEND:20250616
+SUMMARY:Part Closure: WINDRUSH LINE: Sunday 15 June\, no service between 
+ Wandsworth Road and Clapham Junction. Trains will divert to/from Battersea
+  Park after Wandsworth Road. Use local buses via any reasonable route 
+ between Clapham Junction and Battersea Park / Surrey Quays or Southern 
+ trains between Battersea Park and Clapham Junction\, where tickets will be
+  accepted.
+END:VEVENT
+END:VCALENDAR
