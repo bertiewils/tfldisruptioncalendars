@@ -1,5 +1,5 @@
 requests==2.32.4
-ical==9.0.3
+ical==9.2.5
 python-dateutil==2.9.0
 
 # Docs
