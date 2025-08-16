@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+PRODID:-//github.com/allenporter/ical//11.0.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20250816T045140Z
+UID:b2a189af-7a5c-11f0-8992-000d3a32f76d
+DTSTART:20250816
+DTEND:20250817
+SUMMARY:Part Closure: DOCKLANDS LIGHT RAILWAY: Saturday 16 and Sunday 17 
+ August\, no service between Poplar and Beckton. Replacement bus service 
+ DLR2 operates between Canary Wharf and Gallions Reach via Blackwall (for 
+ Poplar)\, East India\, Canning Town\, Royal Victoria\, Custom House\, 
+ Prince Regent\, Royal Albert\, Beckton Park\, Cyprus and Beckton.
+END:VEVENT
+END:VCALENDAR

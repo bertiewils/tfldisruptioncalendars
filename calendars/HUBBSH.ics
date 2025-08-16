@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+PRODID:-//github.com/allenporter/ical//11.0.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20250816T045125Z
+UID:a9b96776-7a5c-11f0-8992-000d3a32f76d
+DTSTART:20250816
+DTEND:20250818
+SUMMARY:Part Closure: LIONESS LINE: Saturday 16 and Sunday 17 August\, no 
+ service between Euston and Watford Junction. There will also be no 
+ BAKERLOO LINE service between Queens Park and Harrow & Wealdstone. Use 
+ local London Buses services for South Hampstead and Kilburn High Road. 
+ SOUTHERN services will continue to serve Harrow & Wealdstone and Watford 
+ Junction on Saturday only. LONDON NORTH WESTERN RAILWAY services will 
+ serve Euston\, Harrow & Wealdstone\, Bushey and Watford Junction on both 
+ days. Special bus services operate.
+END:VEVENT
+END:VCALENDAR

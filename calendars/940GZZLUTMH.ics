@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+PRODID:-//github.com/allenporter/ical//11.0.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20250816T045319Z
+UID:ed8c1fae-7a5c-11f0-8992-000d3a32f76d
+DTSTART:20250816
+DTEND:20250816
+SUMMARY:Information: Tottenham Hale Station: Tottenham Hotspur vs Burnley 
+ at Tottenham Hotspur Stadium on Saturday 16 August (1500 start): Tottenham
+  Hale station is expected to be extremely busy between 1300 and 1430 and 
+ between 1700 and 1830. You may find it easier to use Northumberland Park 
+ station where additional Greater Anglia and Stansted Express trains will 
+ call before and after the match\, please board one of the front 7 coaches 
+ for Northumberland Park.
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250816T045319Z
+UID:ed8c1faf-7a5c-11f0-8992-000d3a32f76d
+DTSTART:20250816
+DTEND:20250816
+SUMMARY:Information: Tottenham Hale Station: Tottenham Hotspur vs Burnley 
+ at Tottenham Hotspur Stadium on Saturday 16 August (1500 start): Tottenham
+  Hale station is expected to be extremely busy between 1300 and 1430 and 
+ between 1700 and 1830. You may find it easier to use Northumberland Park 
+ station where additional Greater Anglia and Stansted Express trains will 
+ call before and after the match\, please board one of the front 7 coaches 
+ for Northumberland Park.
+END:VEVENT
+END:VCALENDAR

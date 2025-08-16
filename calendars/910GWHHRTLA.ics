@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//github.com/allenporter/ical//11.0.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20250816T045336Z
+UID:f7e5fc48-7a5c-11f0-8992-000d3a32f76d
+DTSTART:20250816
+DTEND:20250816
+SUMMARY:Information: White Hart Lane Station: Tottenham Hotspur vs Burnley 
+ at Tottenham Hotspur Stadium on Saturday 16 August (1500 start): White 
+ Hart Lane station is expected to be extremely busy between 1300 and 1430 
+ and between 1700 and 1830
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250816T045336Z
+UID:f7e5fc49-7a5c-11f0-8992-000d3a32f76d
+DTSTART:20250816
+DTEND:20250816
+SUMMARY:Information: White Hart Lane Station: Tottenham Hotspur vs Burnley 
+ at Tottenham Hotspur Stadium on Saturday 16 August (1500 start): White 
+ Hart Lane station is expected to be extremely busy between 1300 and 1430 
+ and between 1700 and 1830
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,13 @@
+BEGIN:VCALENDAR
+PRODID:-//github.com/allenporter/ical//11.0.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20250816T045220Z
+UID:caf1ab38-7a5c-11f0-8992-000d3a32f76d
+DTSTART:20250816
+DTEND:20250818
+SUMMARY:Part Closure: PICCADILLY LINE: Saturday 16 and Sunday 17 August\, 
+ no service between Rayners Lane and Uxbridge. Please use METROPOLITAN LINE
+  services instead.
+END:VEVENT
+END:VCALENDAR

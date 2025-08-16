@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//github.com/allenporter/ical//11.0.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20250816T045329Z
+UID:f39ebc28-7a5c-11f0-8992-000d3a32f76d
+DTSTART:20250816
+DTEND:20250816
+SUMMARY:Interchange Message: WEMBLEY PARK STATION: Friday 15 August\, 
+ between 2230 and 2340\, and Saturday 16 August\, between 2230 and 2325\, 
+ the station will be busy due to concerts at Wembley Stadium. The Bridge 
+ Road entrance will be exit only until the queue to enter the station 
+ clears. Entry to the station\, including step-free access via lift\, will 
+ be via Olympic Way. Please allow extra time for your journey
+END:VEVENT
+END:VCALENDAR

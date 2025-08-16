@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//github.com/allenporter/ical//11.0.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20250816T045230Z
+UID:d0aa43d2-7a5c-11f0-8992-000d3a32f76d
+DTSTART:20250815
+DTEND:20250816
+SUMMARY:Information: PICCADILLY LINE: Saturday 16 August\, between 0030 and
+  0600\, no service between Kings Cross St Pancras and Cockfosters. 
+ Replacement bus service PL5 operates between Finsbury Park (for Victoria 
+ line) and Cockfosters via Manor House\, Turnpike Lane\, Wood Green\, 
+ Bounds Green\, New Southgate (for Great Northern)\, Arnos Grove\, 
+ Southgate and Oakwood.
+END:VEVENT
+END:VCALENDAR
