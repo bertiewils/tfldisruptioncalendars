@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//github.com/allenporter/ical//11.0.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20250825T045350Z
+UID:7e1148cd-816f-11f0-abcd-7ced8d3c7392
+DTSTART:20180122
+DTEND:20251230
+SUMMARY:Information: LONDON BRIDGE STATION: Please note that step free 
+ interchange between the Jubilee and Northern lines is partly at street 
+ level\, in both directions. Lifts are available between Northern line and 
+ Borough High Street entrance then via Borough High Street\, St Thomas 
+ Street and Joiner Street to the main Underground ticket hall from where 
+ lifts are available to/from the Jubilee line.
+END:VEVENT
+END:VCALENDAR

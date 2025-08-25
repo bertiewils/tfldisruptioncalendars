@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+PRODID:-//github.com/allenporter/ical//11.0.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20250825T045452Z
+UID:a307fc5c-816f-11f0-abcd-7ced8d3c7392
+DTSTART:20250616
+DTEND:20260101
+SUMMARY:Interchange Message: Wembley Central: No Step Free Access - Until 
+ January 2026\, Step free access is not available to the southbound 
+ Southern / London Northwestern platform due to planned maintenance. Call 
+ us on 0343 222 1234 if you need help planning your journey.
+END:VEVENT
+END:VCALENDAR

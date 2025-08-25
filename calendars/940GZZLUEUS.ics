@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+PRODID:-//github.com/allenporter/ical//11.0.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20250825T045314Z
+UID:683ed993-816f-11f0-abcd-7ced8d3c7392
+DTSTART:20250825
+DTEND:20250825
+SUMMARY:Information: LIONESS LINE: Saturday 23\, Sunday 24 and Bank Holiday
+  Monday 25 August\, a reduced service operates at certain times between 
+ Euston and Kilburn High Road. On Saturday\, trains departing from Watford 
+ Junction at xx30 minutes past each hour from 0630 to 2030 terminate at 
+ Kilburn High Road instead of Euston. Trains from Euston at xx15 minutes 
+ past each hour from 0715 to 2115 start at Kilburn High Road\, seven 
+ minutes later\, instead of Euston. On Sunday and Bank Holiday Monday\, 
+ trains departing from Watford Junction at xx30 minutes past each hour from
+  1130 to 2030 terminate at Kilburn High Road instead of Euston. Trains 
+ from Euston at xx15 minutes past each hour from 1215 to 2115 start at 
+ Kilburn High Road\, seven minutes later\, instead of Euston.
+END:VEVENT
+END:VCALENDAR

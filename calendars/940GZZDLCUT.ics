@@ -1,0 +1,13 @@
+BEGIN:VCALENDAR
+PRODID:-//github.com/allenporter/ical//11.0.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20250825T045305Z
+UID:630907a5-816f-11f0-abcd-7ced8d3c7392
+DTSTART:20250531
+DTEND:20260531
+SUMMARY:Closure: CUTTY SARK: This station is closed until spring 2026\, 
+ while we replace all four escalators at the station. Please use nearby 
+ Greenwich DLR station to complete your journey.
+END:VEVENT
+END:VCALENDAR

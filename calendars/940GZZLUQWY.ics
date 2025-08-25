@@ -1,0 +1,13 @@
+BEGIN:VCALENDAR
+PRODID:-//github.com/allenporter/ical//11.0.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20250825T045411Z
+UID:8a77da7c-816f-11f0-abcd-7ced8d3c7392
+DTSTART:20250825
+DTEND:20250825
+SUMMARY:Information: QUEENSWAY UNDERGROUND STATION: Sunday 24 and Bank 
+ Holiday Monday 25 August\, between 1100 and 1800 each day\, the station is
+  exit only.
+END:VEVENT
+END:VCALENDAR

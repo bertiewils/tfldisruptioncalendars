@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+PRODID:-//github.com/allenporter/ical//11.0.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20250825T045257Z
+UID:5e07b751-816f-11f0-abcd-7ced8d3c7392
+DTSTART:20250416
+DTEND:20251111
+SUMMARY:Interchange Message: CHARING CROSS UNDERGROUND STATION: From 
+ Wednesday 16 April until autumn 2025\, the Bakerloo line ticket hall will 
+ be temporarily closed while improvement works take place\, including work 
+ on water ingress prevention. During this time for the Bakerloo line please
+  use the entrance on Strand\, next to the National Rail station
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+PRODID:-//github.com/allenporter/ical//11.0.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20250825T045347Z
+UID:7b7780eb-816f-11f0-abcd-7ced8d3c7392
+DTSTART:20250825
+DTEND:20250825
+SUMMARY:Closure: LATIMER ROAD STATION: Sunday 24 and Bank Holiday Monday 25
+  August\, the station closes at 2330 each evening.
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250825T045347Z
+UID:7b7780ec-816f-11f0-abcd-7ced8d3c7392
+DTSTART:20250825
+DTEND:20250826
+SUMMARY:Closure: LATIMER ROAD STATION: Sunday 24 and Bank Holiday Monday 25
+  August\, the station closes at 2330 each evening.
+END:VEVENT
+END:VCALENDAR

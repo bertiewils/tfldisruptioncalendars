@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+PRODID:-//github.com/allenporter/ical//11.0.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20250825T045419Z
+UID:8f233794-816f-11f0-abcd-7ced8d3c7392
+DTSTART:20250319
+DTEND:20250901
+SUMMARY:Interchange Message: SHEPHERD'S BUSH (CENTRAL LINE) STATION: From 
+ Wednesday 19 March until late August\, no down escalator. Please take care
+  and hold the handrail as you walk down the central staircase\, which has 
+ 70 steps. This is while we carry out planned maintenance work on one 
+ escalator\, to ensure its continued reliability. During this work an 'up' 
+ escalator service will be available at all times. To avoid the stairs use 
+ these alternative routes\, especially if travelling with children or 
+ luggage: For eastbound journeys towards central London: use buses 31 or 
+ 228 from stop D in the bus station to Holland Park. For westbound journeys
+  towards Ealing Broadway or West Ruislip: use bus 228 from stop A in the 
+ bus station to White City.
+END:VEVENT
+END:VCALENDAR

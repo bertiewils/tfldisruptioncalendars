@@ -1,0 +1,44 @@
+BEGIN:VCALENDAR
+PRODID:-//github.com/allenporter/ical//11.0.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20250825T045403Z
+UID:85b0051e-816f-11f0-abcd-7ced8d3c7392
+DTSTART:20250825
+DTEND:20250825
+SUMMARY:Closure: NOTTING HILL GATE STATION: Sunday 24 and Bank Holiday 
+ Monday 25 August\, between 1100 and 1800 each day\, Circle and District 
+ line trains do not stop at the station. Central line trains continue to 
+ stop\, but the station will operate as exit only.
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250825T045403Z
+UID:85b0051f-816f-11f0-abcd-7ced8d3c7392
+DTSTART:20250825
+DTEND:20250825
+SUMMARY:Information: NOTTING HILL GATE STATION: Sunday 24 and Bank Holiday 
+ Monday 25 August\, before 1100 and after 1800 each day\, there will be no 
+ interchange available between the Central line and Circle and District 
+ lines.
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250825T045403Z
+UID:85b00520-816f-11f0-abcd-7ced8d3c7392
+DTSTART:20250825
+DTEND:20250825
+SUMMARY:Information: NOTTING HILL GATE STATION: Sunday 24 and Bank Holiday 
+ Monday 25 August\, before 1100 and after 1800 each day\, there will be no 
+ interchange available between the Central line and Circle and District 
+ lines.
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250825T045403Z
+UID:85b00521-816f-11f0-abcd-7ced8d3c7392
+DTSTART:20250825
+DTEND:20250826
+SUMMARY:Information: NOTTING HILL GATE STATION: Sunday 24 and Bank Holiday 
+ Monday 25 August\, before 1100 and after 1800 each day\, there will be no 
+ interchange available between the Central line and Circle and District 
+ lines.
+END:VEVENT
+END:VCALENDAR

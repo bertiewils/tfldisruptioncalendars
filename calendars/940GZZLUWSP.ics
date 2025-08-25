@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//github.com/allenporter/ical//11.0.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20250825T045458Z
+UID:a6afe37e-816f-11f0-abcd-7ced8d3c7392
+DTSTART:20250825
+DTEND:20250825
+SUMMARY:Closure: WESTBOURNE PARK STATION: Sunday 24 and Bank Holiday Monday
+  25 August\, the station closes at 2300 each evening.
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250825T045458Z
+UID:a6afe37f-816f-11f0-abcd-7ced8d3c7392
+DTSTART:20250825
+DTEND:20250826
+SUMMARY:Closure: WESTBOURNE PARK STATION: Sunday 24 and Bank Holiday Monday
+  25 August\, the station closes at 2300 each evening.
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250825T045458Z
+UID:a6afe380-816f-11f0-abcd-7ced8d3c7392
+DTSTART:20250825
+DTEND:20250825
+SUMMARY:Interchange Message: WESTBOURNE PARK STATION: Sunday 24 and Bank 
+ Holiday Monday 25 August\, between 1100 and 2300 each day\, the station 
+ operates as exit only.
+END:VEVENT
+END:VCALENDAR

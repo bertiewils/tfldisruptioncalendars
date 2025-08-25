@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+PRODID:-//github.com/allenporter/ical//11.0.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20250825T045448Z
+UID:a05d1353-816f-11f0-abcd-7ced8d3c7392
+DTSTART:20250613
+DTEND:20260131
+SUMMARY:Interchange Message: WALTHAMSTOW CENTRAL STATION: Until January 
+ 2026\, there will be no lift service from street level (Bus station) to 
+ ticket hall. This is while planned maintenance works takes place. If you 
+ have luggage\, buggies or difficulties using stairs\, please use the exit 
+ via the London Overground ticket hall to Selborne\nRoad. There are fewer 
+ steps and a ramp between the ticket hall and the street. There is a 
+ pedestrian crossing to the bus station from the station exit. For access 
+ to the Victoria line avoiding stairs - use bus route 230 from stop M on 
+ Selborne Walk / Selborne Road to Tottenham Hale station.
+END:VEVENT
+END:VCALENDAR
