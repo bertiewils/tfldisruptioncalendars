@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//github.com/allenporter/ical//11.0.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260308T053151Z
+UID:1b728db3-1ab0-11f1-bc25-7c1e52accbd4
+DTSTART:20260307
+DTEND:20260309
+SUMMARY:Part Closure: WINDRUSH LINE: Saturday 7 and Sunday 8 March 
+ (Including Friday and Saturday Night Overground)\, no service between 
+ Highbury & Islington and New Cross Gate / New Cross / Clapham Junction / 
+ Battersea Park. During Night Overground hours\, please use local London 
+ Buses services. Use MILDMAY LINE services on Saturday between Highbury & 
+ Islington\, Canonbury and Dalston Kingsland. On Saturday only\, between 
+ 0700 and 2200\, a special train service operates between London Bridge and
+  West Croydon calling at New Cross Gate and all stations (change at 
+ Sydenham for SOUTHERN services to/from Crystal Palace). On Saturday only\,
+  SOUTHERN services continue to serve Queens Road Peckham and Peckham Rye\,
+  on Sunday\, a further replacement bus service operates between London 
+ Bridge and Streatham via these stations. On Sunday\, trains operate 
+ between New Cross Gate and West Croydon / Crystal Palace only. Replacement
+  bus services also operate during the day.
+END:VEVENT
+END:VCALENDAR

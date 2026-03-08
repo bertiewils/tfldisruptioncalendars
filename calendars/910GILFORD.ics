@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+PRODID:-//github.com/allenporter/ical//11.0.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260308T053225Z
+UID:30438e9a-1ab0-11f1-bc25-7c1e52accbd4
+DTSTART:20260308
+DTEND:20260309
+SUMMARY:Part Closure: ELIZABETH LINE: Sunday 8 March\, no service between 
+ Stratford and Shenfield. The limited ELIZABETH LINE services to/from 
+ Liverpool Street will also not operate. There will also be no GREATER 
+ ANGLIA services between Liverpool Street and Southend Victoria / 
+ Southminster. Replacement buses operate.
+END:VEVENT
+END:VCALENDAR

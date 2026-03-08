@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+PRODID:-//github.com/allenporter/ical//11.0.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260308T053205Z
+UID:2455bd4d-1ab0-11f1-bc25-7c1e52accbd4
+DTSTART:20260307
+DTEND:20260309
+SUMMARY:Part Closure: DOCKLANDS LIGHT RAILWAY: Saturday 7 and Sunday 8 
+ March\, no service between Poplar / Stratford International and Beckton / 
+ Woolwich Arsenal. Use JUBILEE LINE services between Stratford and Canning 
+ Town\, and ELIZABETH LINE connections between Canary Wharf\, Custom House 
+ and Woolwich (for Woolwich Arsenal). Replacement buses operate.
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,13 @@
+BEGIN:VCALENDAR
+PRODID:-//github.com/allenporter/ical//11.0.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260308T053228Z
+UID:31f1f719-1ab0-11f1-bc25-7c1e52accbd4
+DTSTART:20260308
+DTEND:20260309
+SUMMARY:Information: MILDMAY LINE: Sunday 8 March\, a reduced service 
+ operates between Camden Road and Richmond. Trains operate every 15 
+ minutes.
+END:VEVENT
+END:VCALENDAR

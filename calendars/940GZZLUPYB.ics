@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+PRODID:-//github.com/allenporter/ical//11.0.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260308T053248Z
+UID:3d68bb30-1ab0-11f1-bc25-7c1e52accbd4
+DTSTART:20260307
+DTEND:20260309
+SUMMARY:Interchange Message: Fulham vs Southampton at Craven Cottage on 
+ Saturday 7 March\, 1200 start: Putney Bridge station will be busier than 
+ normal before and after the match. A queuing system and special matchday 
+ entrance will be in operation once the match has finished.
+END:VEVENT
+END:VCALENDAR
