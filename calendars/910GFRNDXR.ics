@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//github.com/allenporter/ical//11.0.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260315T055311Z
+UID:3f63bab2-2033-11f1-bc25-7ced8d1e7c68
+DTSTART:20260314
+DTEND:20260316
+SUMMARY:Part Closure: CIRCLE LINE: Saturday 14 and Sunday 15 March\, no 
+ service between Edgware Road and Tower Hill (via Moorgate).
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260315T055311Z
+UID:3f63bab3-2033-11f1-bc25-7ced8d1e7c68
+DTSTART:20260314
+DTEND:20260316
+SUMMARY:Part Closure: HAMMERSMITH & CITY LINE: Saturday 14 and Sunday 15 
+ March\, no service between Edgware Road and Barking.
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260315T055311Z
+UID:3f63bab4-2033-11f1-bc25-7ced8d1e7c68
+DTSTART:20260314
+DTEND:20260316
+SUMMARY:Part Closure: METROPOLITAN LINE: Saturday 14 and Sunday 15 March\, 
+ no service between Baker Street and Aldgate.
+END:VEVENT
+END:VCALENDAR

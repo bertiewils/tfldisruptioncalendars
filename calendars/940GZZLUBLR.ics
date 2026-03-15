@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+PRODID:-//github.com/allenporter/ical//11.0.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260315T055250Z
+UID:32c6ba0a-2033-11f1-bc25-7ced8d1e7c68
+DTSTART:20260315
+DTEND:20260316
+SUMMARY:Part Closure: SUFFRAGETTE LINE: Sunday 15 March\, no service 
+ between Gospel Oak and Barking Riverside. Use VICTORIA LINE connections 
+ between Seven Sisters (for South Tottenham)\, Blackhorse Road and 
+ Walthamstow Central (for Walthamstow Queens Road) and local London Buses 
+ services between Barking and Barking Riverside. Replacement buses operate 
+ between Gospel Oak and Seven Sisters\, and between Walthamstow Central and
+  Barking.
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,13 @@
+BEGIN:VCALENDAR
+PRODID:-//github.com/allenporter/ical//11.0.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260315T055410Z
+UID:629d4653-2033-11f1-bc25-7ced8d1e7c68
+DTSTART:20260314
+DTEND:20260316
+SUMMARY:Part Closure: LIBERTY LINE: Saturday 14 and Sunday 15 March\, no 
+ service between Romford and Upminster. Use local London Buses routes 165 
+ 248 and 370.
+END:VEVENT
+END:VCALENDAR

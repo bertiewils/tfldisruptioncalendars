@@ -1,0 +1,13 @@
+BEGIN:VCALENDAR
+PRODID:-//github.com/allenporter/ical//11.0.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260315T055248Z
+UID:31761e0b-2033-11f1-bc25-7ced8d1e7c68
+DTSTART:20260314
+DTEND:20260316
+SUMMARY:Part Closure: DISTRICT LINE: Saturday 14 and Sunday 15 March\, no 
+ service between High Street Kensington and Edgware Road. Please use CIRCLE
+  LINE services instead.
+END:VEVENT
+END:VCALENDAR

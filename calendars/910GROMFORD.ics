@@ -1,0 +1,44 @@
+BEGIN:VCALENDAR
+PRODID:-//github.com/allenporter/ical//11.0.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260315T055351Z
+UID:570e4192-2033-11f1-bc25-7ced8d1e7c68
+DTSTART:20260314
+DTEND:20260316
+SUMMARY:Part Closure: ELIZABETH LINE: Saturday 14 and Sunday 15 March\, no 
+ service between Stratford and Shenfield. The limited ELIZABETH LINE 
+ services to/from Liverpool Street National Rail station will also not 
+ operate. There will also be no GREATER ANGLIA services between Liverpool 
+ Street and Shenfield
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260315T055351Z
+UID:570e4193-2033-11f1-bc25-7ced8d1e7c68
+DTSTART:20260314
+DTEND:20260316
+SUMMARY:Part Closure: ELIZABETH LINE: Saturday 14 and Sunday 15 March\, no 
+ service between Stratford and Shenfield. The limited ELIZABETH LINE 
+ services to/from Liverpool Street National Rail station will also not 
+ operate. There will also be no GREATER ANGLIA services between Liverpool 
+ Street and Shenfield
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260315T055351Z
+UID:570e4194-2033-11f1-bc25-7ced8d1e7c68
+DTSTART:20260314
+DTEND:20260316
+SUMMARY:Part Closure: LIBERTY LINE: Saturday 14 and Sunday 15 March\, no 
+ service between Romford and Upminster. Use local London Buses routes 165 
+ 248 and 370.
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260315T055351Z
+UID:570e4195-2033-11f1-bc25-7ced8d1e7c68
+DTSTART:20260314
+DTEND:20260316
+SUMMARY:Part Closure: LIBERTY LINE: Saturday 14 and Sunday 15 March\, no 
+ service between Romford and Upminster. Use local London Buses routes 165 
+ 248 and 370.
+END:VEVENT
+END:VCALENDAR

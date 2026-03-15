@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+PRODID:-//github.com/allenporter/ical//11.0.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260315T055338Z
+UID:4f620912-2033-11f1-bc25-7ced8d1e7c68
+DTSTART:20251020
+DTEND:20261201
+SUMMARY:Information: BANK AND MONUMENT STATIONS: From Monday 20 October 
+ until November 2026. Replacement of escalators 4 and 5. These connect the 
+ Northern line platforms with the District and Circle line platforms. While
+  this work takes place\, the walking route between these platforms will be
+  closed. Please allow a little longer for your journey and follow the 
+ signs\, which will direct you via an alternative walking route. Depending 
+ on your journey\, this route may be via street level. To pay the correct 
+ fare\, just touch out as you exit and touch back in again\, as you 
+ re-enter.
+END:VEVENT
+END:VCALENDAR

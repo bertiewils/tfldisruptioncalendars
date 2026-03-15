@@ -1,0 +1,31 @@
+BEGIN:VCALENDAR
+PRODID:-//github.com/allenporter/ical//11.0.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260315T055307Z
+UID:3d2576f7-2033-11f1-bc25-7ced8d1e7c68
+DTSTART:20260315
+DTEND:20260315
+SUMMARY:Information: ELIZABETH LINE: Sunday 15 March\, until 0745\, no 
+ service between Paddington and Ealing Broadway. Please use London 
+ Underground connections. The Saturday evening 2345 Didcot Parkway to 
+ London Paddington GWR train will finish its journey at Ealing Broadway. 
+ The Sunday morning 0638 London Paddington to Reading GWR train will start 
+ from Ealing Broadway and will run slightly later throughout. TfL Central 
+ line connections will be available between Central London and Ealing 
+ Broadway.
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260315T055307Z
+UID:3d2576f8-2033-11f1-bc25-7ced8d1e7c68
+DTSTART:20260315
+DTEND:20260316
+SUMMARY:Information: ELIZABETH LINE: Sunday 15 March\, from 0745\, a 
+ reduced service operates between Paddington and Maidenhead / Heathrow. Two
+  trains an hour serve Heathrow Terminal 4\, West Drayton\, Langley\, 
+ Slough\, Burnham and Maidenhead. Four trains an hour serve Heathrow 
+ Terminals 2 & 3. Six trains an hour serve Ealing Broadway\, Southall and 
+ Hayes & Harlington. No trains will call at Acton Main Line\, West Ealing 
+ and Hanwell.
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+PRODID:-//github.com/allenporter/ical//11.0.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260315T055416Z
+UID:66a40d24-2033-11f1-bc25-7ced8d1e7c68
+DTSTART:20260310
+DTEND:20261201
+SUMMARY:Interchange Message: WEMBLEY PARK STATION: From Monday 10 March 
+ until Autumn 2026\, no lift service between the street (Wembley Way / car 
+ park) and ticket hall. Step-free access is still available by using the 
+ entrance/exit on Bridge Road which is level between street and ticket 
+ hall. Lifts remain available to all platforms.
+END:VEVENT
+END:VCALENDAR

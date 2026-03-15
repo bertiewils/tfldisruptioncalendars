@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//github.com/allenporter/ical//11.0.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260315T055412Z
+UID:638cd34e-2033-11f1-bc25-7ced8d1e7c68
+DTSTART:20260315
+DTEND:20260315
+SUMMARY:Information: WEAVER LINE: Sunday 15 March\, until 1015\, no service
+  between Liverpool Street and Cheshunt / Chingford / Enfield Town. Use 
+ VICTORIA LINE connections between Central London and Seven Sisters / 
+ Walthamstow Central. Replacement buses operate. Liverpool Street National 
+ Rail station will be closed all day\, and GREATER ANGLIA trains will not 
+ call at Hackney Downs and Seven Sisters.
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260315T055412Z
+UID:638cd34f-2033-11f1-bc25-7ced8d1e7c68
+DTSTART:20260315
+DTEND:20260316
+SUMMARY:Information: WEAVER LINE: Sunday 15 March\, from 1015\, a reduced 
+ service operates. Trains operate every 30 minutes between London Fields 
+ and Chingford\, every hour between London Fields and Cheshunt\, and every 
+ hour between London Fields and Enfield Town. There will be no service 
+ to/from Liverpool Street\, Bethnal Green and Cambridge Heath all day. No 
+ GREATER ANGLIA services call at Hackney Downs or Seven Sisters all day.
+END:VEVENT
+END:VCALENDAR

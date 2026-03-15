@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+PRODID:-//github.com/allenporter/ical//11.0.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260315T055255Z
+UID:36808d04-2033-11f1-bc25-7ced8d1e7c68
+DTSTART:20260224
+DTEND:20260901
+SUMMARY:Interchange Message: CAMDEN ROAD STATION: Until summer 2026\, no 
+ step-free access to/from the eastbound platform. To start a step-free 
+ eastbound journey\, take bus 274 to Caledonian Road & Barnsbury.\nTo 
+ complete an eastbound step-free journey at Camden Road\, continue to 
+ Caledonian Road & Barnsbury and change there to a westbound train.
+END:VEVENT
+END:VCALENDAR

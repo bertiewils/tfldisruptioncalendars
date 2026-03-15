@@ -1,0 +1,13 @@
+BEGIN:VCALENDAR
+PRODID:-//github.com/allenporter/ical//11.0.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260315T055412Z
+UID:638cd34a-2033-11f1-bc25-7ced8d1e7c68
+DTSTART:20260311
+DTEND:20260519
+SUMMARY:Information: VICTORIA UNDERGROUND STATION: From Wednesday 11 March 
+ until late May\, there will be a reduced escalator service to the Victoria
+  line due to replacement works.
+END:VEVENT
+END:VCALENDAR

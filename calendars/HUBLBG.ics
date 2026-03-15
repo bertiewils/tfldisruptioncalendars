@@ -1,0 +1,13 @@
+BEGIN:VCALENDAR
+PRODID:-//github.com/allenporter/ical//11.0.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260315T055335Z
+UID:4e1469ec-2033-11f1-bc25-7ced8d1e7c68
+DTSTART:20260224
+DTEND:20260411
+SUMMARY:Information: LONDON BRIDGE UNDERGROUND STATION: Until early April 
+ 2026\, reduced escalator service between the main ticket hall and the 
+ Jubilee line
+END:VEVENT
+END:VCALENDAR

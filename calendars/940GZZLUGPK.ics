@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+PRODID:-//github.com/allenporter/ical//11.0.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260315T055315Z
+UID:41878986-2033-11f1-bc25-7ced8d1e7c68
+DTSTART:20251121
+DTEND:20260510
+SUMMARY:Interchange Message: GREEN PARK STATION: Until early May 2026\, the
+  subway to exit D (Piccadilly south side) and public toilets will be 
+ closed. Public toilets are available at Victoria station\, use any 
+ southbound Victoria line train from platform 4.
+END:VEVENT
+END:VCALENDAR

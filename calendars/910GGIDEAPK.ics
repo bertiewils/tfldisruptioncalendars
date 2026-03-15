@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+PRODID:-//github.com/allenporter/ical//11.0.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260315T055314Z
+UID:41878980-2033-11f1-bc25-7ced8d1e7c68
+DTSTART:20260314
+DTEND:20260316
+SUMMARY:Part Closure: ELIZABETH LINE: Saturday 14 and Sunday 15 March\, no 
+ service between Stratford and Shenfield. The limited ELIZABETH LINE 
+ services to/from Liverpool Street National Rail station will also not 
+ operate. There will also be no GREATER ANGLIA services between Liverpool 
+ Street and Shenfield
+END:VEVENT
+END:VCALENDAR

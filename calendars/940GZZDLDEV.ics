@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+PRODID:-//github.com/allenporter/ical//11.0.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260315T055306Z
+UID:3d2576f4-2033-11f1-bc25-7ced8d1e7c68
+DTSTART:20260314
+DTEND:20260316
+SUMMARY:Information: DOCKLANDS LIGHT RAILWAY: Saturday 14 and Sunday 15 
+ March\, no service between West India Quay and Stratford. Please use 
+ JUBILEE LINE and local London Buses services. West India Quay remains 
+ served by trains from Lewisham to Bank only.
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,72 @@
+BEGIN:VCALENDAR
+PRODID:-//github.com/allenporter/ical//11.0.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260315T055335Z
+UID:4e1469de-2033-11f1-bc25-7ced8d1e7c68
+DTSTART:20260315
+DTEND:20260315
+SUMMARY:Information: WEAVER LINE: Sunday 15 March\, until 1015\, no service
+  between Liverpool Street and Cheshunt / Chingford / Enfield Town. Use 
+ VICTORIA LINE connections between Central London and Seven Sisters / 
+ Walthamstow Central. Replacement buses operate. Liverpool Street National 
+ Rail station will be closed all day\, and GREATER ANGLIA trains will not 
+ call at Hackney Downs and Seven Sisters.
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260315T055335Z
+UID:4e1469df-2033-11f1-bc25-7ced8d1e7c68
+DTSTART:20260315
+DTEND:20260315
+SUMMARY:Information: WEAVER LINE: Sunday 15 March\, until 1015\, no service
+  between Liverpool Street and Cheshunt / Chingford / Enfield Town. Use 
+ VICTORIA LINE connections between Central London and Seven Sisters / 
+ Walthamstow Central. Replacement buses operate. Liverpool Street National 
+ Rail station will be closed all day\, and GREATER ANGLIA trains will not 
+ call at Hackney Downs and Seven Sisters.
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260315T055335Z
+UID:4e1469e0-2033-11f1-bc25-7ced8d1e7c68
+DTSTART:20260315
+DTEND:20260316
+SUMMARY:Information: WEAVER LINE: Sunday 15 March\, from 1015\, no service 
+ between Liverpool Street and London Fields. Please use local London Buses 
+ and London Underground connections. Liverpool Street National Rail station
+  will be closed all day.
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260315T055335Z
+UID:4e1469e1-2033-11f1-bc25-7ced8d1e7c68
+DTSTART:20260315
+DTEND:20260316
+SUMMARY:Information: WEAVER LINE: Sunday 15 March\, from 1015\, no service 
+ between Liverpool Street and London Fields. Please use local London Buses 
+ and London Underground connections. Liverpool Street National Rail station
+  will be closed all day.
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260315T055335Z
+UID:4e1469e2-2033-11f1-bc25-7ced8d1e7c68
+DTSTART:20260314
+DTEND:20260316
+SUMMARY:Part Closure: CIRCLE LINE: Saturday 14 and Sunday 15 March\, no 
+ service between Edgware Road and Tower Hill (via Moorgate).
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260315T055335Z
+UID:4e1469e3-2033-11f1-bc25-7ced8d1e7c68
+DTSTART:20260314
+DTEND:20260316
+SUMMARY:Part Closure: HAMMERSMITH & CITY LINE: Saturday 14 and Sunday 15 
+ March\, no service between Edgware Road and Barking.
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260315T055335Z
+UID:4e1469e4-2033-11f1-bc25-7ced8d1e7c68
+DTSTART:20260314
+DTEND:20260316
+SUMMARY:Part Closure: METROPOLITAN LINE: Saturday 14 and Sunday 15 March\, 
+ no service between Baker Street and Aldgate.
+END:VEVENT
+END:VCALENDAR

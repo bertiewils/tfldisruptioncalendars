@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+PRODID:-//github.com/allenporter/ical//11.0.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260315T055422Z
+UID:6a1a9c72-2033-11f1-bc25-7ced8d1e7c68
+DTSTART:20260314
+DTEND:20260315
+SUMMARY:Information: MILDMAY LINE: From 1930 Saturday 14 until 1200 Sunday 
+ 15 March\, no service between Shepherds Bush and Willesden Junction. 
+ SOUTHERN services will not operate between Shepherds Bush and Watford 
+ Junction from 2000 Saturday until 1200 Sunday. Last trains are at 1851 
+ Stratford to Clapham Junction (1932 at Willesden Junction) and at 1949 
+ from Clapham Junction to Stratford. First trains on Sunday are at 1123 
+ from Stratford to Clapham Junction (1203 from Willesden Junction) and at 
+ 1159 from Clapham Junction to Stratford.
+END:VEVENT
+END:VCALENDAR

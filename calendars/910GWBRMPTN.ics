@@ -1,0 +1,13 @@
+BEGIN:VCALENDAR
+PRODID:-//github.com/allenporter/ical//11.0.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260315T055416Z
+UID:66a40d26-2033-11f1-bc25-7ced8d1e7c68
+DTSTART:20260314
+DTEND:20260315
+SUMMARY:Information: MILDMAY LINE: From 1930 Saturday 14 until 1200 Sunday 
+ 15 March\, a reduced service operates between Shepherds Bush and Clapham 
+ Junction. Trains operate every 30 minutes.
+END:VEVENT
+END:VCALENDAR

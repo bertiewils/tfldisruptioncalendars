@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+PRODID:-//github.com/allenporter/ical//11.0.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260315T055356Z
+UID:5a09f8e0-2033-11f1-bc25-7ced8d1e7c68
+DTSTART:20260315
+DTEND:20260316
+SUMMARY:Information: ELIZABETH LINE: Sunday 15 March\, from 0745\, a 
+ reduced service operates between Paddington and Maidenhead / Heathrow. Two
+  trains an hour serve Heathrow Terminal 4\, West Drayton\, Langley\, 
+ Slough\, Burnham and Maidenhead. Four trains an hour serve Heathrow 
+ Terminals 2 & 3. Six trains an hour serve Ealing Broadway\, Southall and 
+ Hayes & Harlington. No trains will call at Acton Main Line\, West Ealing 
+ and Hanwell.
+END:VEVENT
+END:VCALENDAR

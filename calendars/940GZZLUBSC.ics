@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+PRODID:-//github.com/allenporter/ical//11.0.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260315T055247Z
+UID:31761e0a-2033-11f1-bc25-7ced8d1e7c68
+DTSTART:20260119
+DTEND:20260608
+SUMMARY:Closure: BARONS COURT STATION: From Monday 19 January to Sunday 7 
+ June\, eastbound trains will not call at Barons Court. If travelling 
+ eastbound from the station\, please use westbound District or Piccadilly 
+ line trains and change to eastbound services at Hammersmith. If travelling
+  eastbound to the station\, please continue to West Kensington (on the 
+ District line) or Earls Court (on the Piccadilly line) and change to 
+ westbound services.
+END:VEVENT
+END:VCALENDAR

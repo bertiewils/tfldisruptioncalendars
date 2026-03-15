@@ -1,0 +1,13 @@
+BEGIN:VCALENDAR
+PRODID:-//github.com/allenporter/ical//11.0.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260315T055413Z
+UID:64c80247-2033-11f1-bc25-7ced8d1e7c68
+DTSTART:20260315
+DTEND:20260316
+SUMMARY:Part Closure: WINDRUSH LINE: Sunday 15 March\, no service between 
+ Wandsworth Road and Clapham Junction. Trains are diverted to/from 
+ Battersea Park for connecting SOUTHERN trains to/from Clapham Junction.
+END:VEVENT
+END:VCALENDAR

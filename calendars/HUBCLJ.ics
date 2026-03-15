@@ -1,0 +1,31 @@
+BEGIN:VCALENDAR
+PRODID:-//github.com/allenporter/ical//11.0.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260315T055301Z
+UID:394f5d50-2033-11f1-bc25-7ced8d1e7c68
+DTSTART:20260314
+DTEND:20260315
+SUMMARY:Information: MILDMAY LINE: From 1930 Saturday 14 until 1200 Sunday 
+ 15 March\, a reduced service operates between Shepherds Bush and Clapham 
+ Junction. Trains operate every 30 minutes.
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260315T055301Z
+UID:394f5d51-2033-11f1-bc25-7ced8d1e7c68
+DTSTART:20260314
+DTEND:20260315
+SUMMARY:Information: MILDMAY LINE: From 1930 Saturday 14 until 1200 Sunday 
+ 15 March\, a reduced service operates between Shepherds Bush and Clapham 
+ Junction. Trains operate every 30 minutes.
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260315T055301Z
+UID:394f5d52-2033-11f1-bc25-7ced8d1e7c68
+DTSTART:20260315
+DTEND:20260316
+SUMMARY:Part Closure: WINDRUSH LINE: Sunday 15 March\, no service between 
+ Wandsworth Road and Clapham Junction. Trains are diverted to/from 
+ Battersea Park for connecting SOUTHERN trains to/from Clapham Junction.
+END:VEVENT
+END:VCALENDAR
