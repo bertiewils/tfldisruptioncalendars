@@ -1,0 +1,37 @@
+BEGIN:VCALENDAR
+PRODID:-//github.com/allenporter/ical//11.1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260701T084041Z
+UID:8ad3b34e-7528-11f1-9b62-000d3a9c6641
+DTSTART:20260701
+DTEND:20260701
+SUMMARY:Information: MILDMAY LINE: Monday 29\, Tuesday 30 June\, Wednesday 
+ 1 and Thursday 2 July\, the 2203 and 2234 trains from Clapham Junction 
+ terminate at Willesden Junction instead of Stratford.
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260701T084041Z
+UID:8ad3b34f-7528-11f1-9b62-000d3a9c6641
+DTSTART:20260701
+DTEND:20260701
+SUMMARY:Information: MILDMAY LINE: Monday 29\, Tuesday 30 June\, Wednesday 
+ 1 and Thursday 2 July\, after 2345 each evening\, no westbound service 
+ from Camden Road to Willesden Junction. The 2359 and 0015 services from 
+ Stratford will terminate at Camden Road. Use London Overground services 
+ from Euston to Willesden Junction\, Northern line from Camden Town\, or 
+ local bus routes 1\, 24\, 46 88 and 214 from Camden Road / Camden Town.
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260701T084041Z
+UID:8ad3b350-7528-11f1-9b62-000d3a9c6641
+DTSTART:20260701
+DTEND:20260702
+SUMMARY:Information: MILDMAY LINE: Monday 29\, Tuesday 30 June\, Wednesday 
+ 1 and Thursday 2 July\, after 2345 each evening\, no westbound service 
+ from Camden Road to Willesden Junction. The 2359 and 0015 services from 
+ Stratford will terminate at Camden Road. Use London Overground services 
+ from Euston to Willesden Junction\, Northern line from Camden Town\, or 
+ local bus routes 1\, 24\, 46 88 and 214 from Camden Road / Camden Town.
+END:VEVENT
+END:VCALENDAR

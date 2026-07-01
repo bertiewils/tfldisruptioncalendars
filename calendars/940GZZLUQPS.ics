@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+PRODID:-//github.com/allenporter/ical//11.1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260701T083951Z
+UID:6cf4bd4a-7528-11f1-9b62-000d3a9c6641
+DTSTART:20260701
+DTEND:20260701
+SUMMARY:Information: LIONESS LINE: Monday 29\, Tuesday 30 June\, Wednesday 
+ 1 and Thursday 2 July\, the 2345 Euston to Watford Junction train will not
+  run.
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260701T083951Z
+UID:6cf4bd4b-7528-11f1-9b62-000d3a9c6641
+DTSTART:20260701
+DTEND:20260701
+SUMMARY:Information: LIONESS LINE: Monday 29\, Tuesday 30 June\, Wednesday 
+ 1 and Thursday 2 July\, the 2345 Euston to Watford Junction train will not
+  run.
+END:VEVENT
+END:VCALENDAR

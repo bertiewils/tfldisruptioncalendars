@@ -1,0 +1,36 @@
+BEGIN:VCALENDAR
+PRODID:-//github.com/allenporter/ical//11.1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260701T084035Z
+UID:871c97fc-7528-11f1-9b62-000d3a9c6641
+DTSTART:20260701
+DTEND:20260701
+SUMMARY:Information: WEMBLEY CENTRAL STATION: Friday 12\, Saturday 13\, 
+ Wednesday 17\, Friday 19\, Saturday 20\, Tuesday 23\, Friday 26\, Saturday
+  27\, Monday 29 June\, Wednesday 1\, Friday 3 and Saturday 4 July\, the 
+ station will be busy due to concerts at Wembley Stadium. The main High 
+ Road entrance will be exit only until the queue to enter the station 
+ clears. If you require step-free access to the platforms\, please ask a 
+ member of staff. Main entry to the station will be via the London Road 
+ events entrance which is not step-free.
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260701T084035Z
+UID:871c97fd-7528-11f1-9b62-000d3a9c6641
+DTSTART:20260701
+DTEND:20260701
+SUMMARY:Information: LIONESS LINE: Monday 29\, Tuesday 30 June\, Wednesday 
+ 1 and Thursday 2 July\, the 2345 Euston to Watford Junction train will not
+  run.
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260701T084035Z
+UID:871c97fe-7528-11f1-9b62-000d3a9c6641
+DTSTART:20260701
+DTEND:20260701
+SUMMARY:Information: LIONESS LINE: Monday 29\, Tuesday 30 June\, Wednesday 
+ 1 and Thursday 2 July\, the 2345 Euston to Watford Junction train will not
+  run.
+END:VEVENT
+END:VCALENDAR
