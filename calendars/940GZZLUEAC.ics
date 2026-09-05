@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+PRODID:-//github.com/allenporter/ical//11.1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260905T083436Z
+UID:a066eefa-a904-11f1-baa1-6045bd31a27c
+DTSTART:20260818
+DTEND:20261001
+SUMMARY:Interchange Message: ELEPHANT & CASTLE UNDERGROUND STATION: Until 
+ late September\, the lifts at the Northern line entrance are out of 
+ service for repairs. Please exit and enter the station via the Bakerloo 
+ line entrance in London Road.
+END:VEVENT
+END:VCALENDAR

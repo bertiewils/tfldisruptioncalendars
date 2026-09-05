@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+PRODID:-//github.com/allenporter/ical//11.1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260905T083435Z
+UID:9f652699-a904-11f1-baa1-6045bd31a27c
+DTSTART:20260905
+DTEND:20260907
+SUMMARY:Part Closure: District Line: Saturday 5 and Sunday 6 September\, no
+  service between Edgware Road and Wimbledon. Rail Replacement bus services
+  will operate. If travelling to/from Fulham vs Crystal Palace on 
+ Saturday\, it may be easier to walk to/from Hammersmith.
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+PRODID:-//github.com/allenporter/ical//11.1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260905T083558Z
+UID:d135ef2d-a904-11f1-baa1-6045bd31a27c
+DTSTART:20260901
+DTEND:20260915
+SUMMARY:Interchange Message: Moorgate: From Tuesday 1 until Monday 14 
+ September\, there will be no step-free access between the eastbound 
+ Circle\, Hammersmith & City and Metropolitan line platform and the 
+ Moorgate entrance.
+END:VEVENT
+END:VCALENDAR

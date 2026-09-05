@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//github.com/allenporter/ical//11.1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260905T083728Z
+UID:07608e72-a905-11f1-baa1-6045bd31a27c
+DTSTART:20260905
+DTEND:20260905
+SUMMARY:Information: White Hart Lane Station: Jay Z concerts at Tottenham 
+ Hotspur Stadium on Friday 4 and Saturday 5 September (1700 start): White 
+ Hart Lane station is expected to be extremely busy between 1600 and 1800 
+ and between 2130 and 2300.
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260905T083728Z
+UID:07608e73-a905-11f1-baa1-6045bd31a27c
+DTSTART:20260905
+DTEND:20260905
+SUMMARY:Information: White Hart Lane Station: Jay Z concerts at Tottenham 
+ Hotspur Stadium on Friday 4 and Saturday 5 September (1700 start): White 
+ Hart Lane station is expected to be extremely busy between 1600 and 1800 
+ and between 2130 and 2300.
+END:VEVENT
+END:VCALENDAR

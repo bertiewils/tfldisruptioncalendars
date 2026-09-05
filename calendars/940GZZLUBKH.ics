@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+PRODID:-//github.com/allenporter/ical//11.1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260905T083408Z
+UID:8fabd5c8-a904-11f1-baa1-6045bd31a27c
+DTSTART:20260810
+DTEND:20261201
+SUMMARY:Information: BUCKHURST HILL STATION: From Monday 10 August until 
+ Autumn 2026\, the footbridge is closed due to maintenance work. Please use
+  the subway from eastbound platform 2 to access westbound platform 1. 
+ Step-free access remains available to both platforms via the ramps.
+END:VEVENT
+END:VCALENDAR
