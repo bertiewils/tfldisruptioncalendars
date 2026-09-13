@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+PRODID:-//github.com/allenporter/ical//11.1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260913T094515Z
+UID:d25cad26-af57-11f1-99ae-70a8a51aa72c
+DTSTART:20260901
+DTEND:20261101
+SUMMARY:Interchange Message: SNARESBROOK STATION: Until further notice\, 
+ the westbound platform entrance and exit is closed for repairs to a water 
+ leak. Please use the entrance and exits on the eastbound platform via the 
+ footbridge
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+PRODID:-//github.com/allenporter/ical//11.1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260913T094445Z
+UID:c07b58ee-af57-11f1-99ae-70a8a51aa72c
+DTSTART:20260911
+DTEND:20260914
+SUMMARY:Closure: Marble Arch: Marble Arch station will be closed from 00:36
+  Saturday 12 until start of service on Monday 14 September.
+END:VEVENT
+END:VCALENDAR

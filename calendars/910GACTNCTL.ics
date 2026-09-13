@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//github.com/allenporter/ical//11.1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260913T094237Z
+UID:74b6b372-af57-11f1-99ae-70a8a51aa72c
+DTSTART:20260913
+DTEND:20260914
+SUMMARY:Part Closure: MILDMAY LINE: Sunday 13 September\, no service 
+ between Willesden Junction and Richmond. There is also no DISTRICT LINE 
+ service between Tower Hill and Richmond / Ealing Broadway. Replacement bus
+  service DL3 operates between Willesden Junction and Richmond via Acton 
+ Central\, South Acton (Acton Lane)\, Turnham Green\, Chiswick Park\, 
+ Gunnersbury and Kew Gardens (Royal Botanic Gardens).
+END:VEVENT
+END:VCALENDAR

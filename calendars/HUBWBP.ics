@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//github.com/allenporter/ical//11.1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260913T094552Z
+UID:e851c8f9-af57-11f1-99ae-70a8a51aa72c
+DTSTART:20260912
+DTEND:20260914
+SUMMARY:Part Closure: DISTRICT LINE: Saturday 12 and Sunday 13 September\, 
+ no service between Tower Hill / Edgware Road and Ealing Broadway / 
+ Kensington (Olympia) / Richmond / Wimbledon. Use MILDMAY LINE services 
+ between Gunnersbury and Richmond on Saturday. Replacement buses operate. 
+ If travelling to Chelsea vs Hull City AFC at Stamford Bridge on Saturday\,
+  please use PICCADILLY LINE services at Earls Court.
+END:VEVENT
+END:VCALENDAR
