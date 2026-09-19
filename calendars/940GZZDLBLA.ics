@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+PRODID:-//github.com/allenporter/ical//11.1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260919T085834Z
+UID:4b6236e4-b408-11f1-99ae-000d3a151393
+DTSTART:20260919
+DTEND:20260921
+SUMMARY:Part Closure: DOCKLANDS LIGHT RAILWAY: Saturday 19 and Sunday 20 
+ September\, no service between Bank / Tower Gateway and Lewisham / Canning
+  Town or between Stratford and Canary Wharf. Use JUBILEE LINE connections 
+ between Canary Wharf and Canada Water. Replacement buses operate.
+END:VEVENT
+END:VCALENDAR

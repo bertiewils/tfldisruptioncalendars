@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+PRODID:-//github.com/allenporter/ical//11.1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260919T085937Z
+UID:70da1537-b408-11f1-99ae-000d3a151393
+DTSTART:20260919
+DTEND:20260919
+SUMMARY:Information: HIGHBURY & ISLINGTON STATION: Saturday 19 September\, 
+ between 1910 and 2040\, a queuing system will be in operation due to a 
+ football match at Emirates Stadium. Please allow extra time for your 
+ journey.
+END:VEVENT
+END:VCALENDAR

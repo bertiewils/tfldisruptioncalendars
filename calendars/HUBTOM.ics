@@ -1,0 +1,34 @@
+BEGIN:VCALENDAR
+PRODID:-//github.com/allenporter/ical//11.1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260919T090053Z
+UID:9da97887-b408-11f1-99ae-000d3a151393
+DTSTART:20260919
+DTEND:20260919
+SUMMARY:Information: Tottenham Hale Station: Tottenham Hotspur vs Aston 
+ Villa match at Tottenham Hotspur Stadium on Saturday 19 September (1230 
+ start): Tottenham Hale station is expected to be extremely busy between 
+ 1030 and 1200 and between 1430 and 1600. You may find it easier to use 
+ Northumberland Park station where additional Greater Anglia and Stansted 
+ Express trains will call before and after the match\, please board one of 
+ the front 7 coaches for Northumberland Park. Please note that there is no 
+ down escalator to the Victoria line at present\, so queuing times are 
+ expected to increase.
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260919T090053Z
+UID:9da97888-b408-11f1-99ae-000d3a151393
+DTSTART:20260919
+DTEND:20260919
+SUMMARY:Information: Tottenham Hale Station: Tottenham Hotspur vs Aston 
+ Villa match at Tottenham Hotspur Stadium on Saturday 19 September (1230 
+ start): Tottenham Hale station is expected to be extremely busy between 
+ 1030 and 1200 and between 1430 and 1600. You may find it easier to use 
+ Northumberland Park station where additional Greater Anglia and Stansted 
+ Express trains will call before and after the match\, please board one of 
+ the front 7 coaches for Northumberland Park. Please note that there is no 
+ down escalator to the Victoria line at present\, so queuing times are 
+ expected to increase.
+END:VEVENT
+END:VCALENDAR
