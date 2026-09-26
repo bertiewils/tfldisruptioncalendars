@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+PRODID:-//github.com/allenporter/ical//11.1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260926T093136Z
+UID:12044b32-b98d-11f1-a931-0022488f0801
+DTSTART:20260926
+DTEND:20260928
+SUMMARY:Part Closure: PICCADILLY LINE: From 0200 Saturday 26 and all day 
+ Sunday 27 September (including Friday and Saturday Night Tube)\, no 
+ service between Cockfosters and Uxbridge. Trains continue to operate 
+ between Acton Town and Heathrow. Use DISTRICT LINE trains between Central 
+ London and Acton Town / Ealing Common and METROPOLITAN LINE trains between
+  Rayners Lane and Uxbridge. Use ELIZABETH LINE trains for travel between 
+ Central London and Heathrow. Replacement buses operate.
+END:VEVENT
+END:VCALENDAR

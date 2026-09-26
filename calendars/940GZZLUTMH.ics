@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//github.com/allenporter/ical//11.1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260926T093329Z
+UID:54d8e186-b98d-11f1-a931-0022488f0801
+DTSTART:20260926
+DTEND:20260926
+SUMMARY:Information: Tottenham Hale Station: Big Bang Concert at Tottenham 
+ Hotspur Stadium on Saturday 26 September (2000 KO): Tottenham Hale station
+  is expected to be extremely busy between 1400 and 1600 and between 2200 
+ and 2300. You may find it easier to use Northumberland Park station where 
+ additional trains will call before and after the match
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260926T093329Z
+UID:54d8e187-b98d-11f1-a931-0022488f0801
+DTSTART:20260926
+DTEND:20260926
+SUMMARY:Information: Tottenham Hale Station: Big Bang Concert at Tottenham 
+ Hotspur Stadium on Saturday 26 September (2000 KO): Tottenham Hale station
+  is expected to be extremely busy between 1400 and 1600 and between 2200 
+ and 2300. You may find it easier to use Northumberland Park station where 
+ additional trains will call before and after the match
+END:VEVENT
+END:VCALENDAR

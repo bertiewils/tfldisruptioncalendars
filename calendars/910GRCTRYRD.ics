@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+PRODID:-//github.com/allenporter/ical//11.1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260926T093258Z
+UID:42602d15-b98d-11f1-a931-0022488f0801
+DTSTART:20260926
+DTEND:20260927
+SUMMARY:Part Closure: WEAVER LINE: Saturday 26 September\, all day\, and 
+ Sunday 27 September\, from 1015\, no service between Hackney Downs and 
+ Cheshunt / Enfield Town. The limited number of GREATER ANGLIA and STANSTED
+  EXPRESS trains which usually stop at Seven Sisters will stop at Tottenham
+  Hale instead. Use London Underground connections between Central London 
+ and Seven Sisters\, and for Rectory Road and Stoke Newington\, use Clapton
+  station. If travelling to the Big Bang concert at Tottenham Hotspur 
+ Stadium\, please use Victoria line trains to/from Seven Sisters or 
+ Tottenham Hale.
+END:VEVENT
+END:VCALENDAR

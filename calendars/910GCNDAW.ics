@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+PRODID:-//github.com/allenporter/ical//11.1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260926T093058Z
+UID:fab18bd6-b98c-11f1-a931-0022488f0801
+DTSTART:20260922
+DTEND:20270531
+SUMMARY:Interchange Message: CANADA WATER STATION: Until Spring 2027\, no 
+ step-free access between street and ticket hall level at this station. 
+ This is while we carry out lift replacement work. For step-free access to 
+ the Jubilee line\, take bus 47 or 188 from stop B1 in the bus station to 
+ Bermondsey. For step-free access to the Windrush line\, take any bus from 
+ stop B2\, or bus 1 or 381 from stop C in the bus station to Surrey Quays. 
+ Alternatively\, it is about an 800m journey to Surrey Quays at street 
+ level via Deal Porters Way. Step-free interchange within the station 
+ between the Jubilee line and Windrush line platforms\, and between the 
+ platforms and ticket hall will operate as normal. However\, you will not 
+ be able to use the lift between the street and ticket hall to enter the 
+ station. Please plan ahead and allow more time for your journey
+END:VEVENT
+END:VCALENDAR
