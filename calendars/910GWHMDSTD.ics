@@ -1,0 +1,13 @@
+BEGIN:VCALENDAR
+PRODID:-//github.com/allenporter/ical//11.1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20261003T100436Z
+UID:d663b6bf-bf11-11f1-9774-6045bd057500
+DTSTART:20261003
+DTEND:20261003
+SUMMARY:Information: MILDMAY LINE: Saturday 3 October\, the 2104 and 2234 
+ Clapham Junction to Stratford trains will terminate at Willesden Junction.
+  The 2319 Clapham Junction to Willesden Junction train will not run.
+END:VEVENT
+END:VCALENDAR
