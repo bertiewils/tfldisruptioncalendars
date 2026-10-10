@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//github.com/allenporter/ical//11.1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20261009T112959Z
+UID:c2f70d5c-c3d4-11f1-ae67-000d3a5a943b
+DTSTART:20261002
+DTEND:20261010
+SUMMARY:Closure: ARSENAL STATION: Arsenal station is closed due to 
+ infrastructure damage within the station. We are assessing the problem and
+  will work to reopen the station as quickly as possible. While this 
+ station is closed\, you are advised to use local buses and alternative 
+ nearby stations including Finsbury Park\, Holloway Road or Highbury & 
+ Islington.
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//github.com/allenporter/ical//11.1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20261009T113305Z
+UID:31eec934-c3d5-11f1-ae67-000d3a5a943b
+DTSTART:20261009
+DTEND:20270101
+SUMMARY:Interchange Message: PIMLICO STATION: From Friday 9 October until 
+ late December\, no down escalator. Please use the stairs. To avoid the 
+ stairs\, or if you are travelling with luggage\, buggies or small 
+ children\, please use local bus services 2\, 36\, or 185 from Vauxhall 
+ Bridge Road\, stop A for Victoria and stop D for Vauxhall. Route 360 also 
+ serves Vauxhall from stop H on Bessborough Street.
+END:VEVENT
+END:VCALENDAR
