@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+PRODID:-//github.com/allenporter/ical//11.1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20261017T084820Z
+UID:80b7b84f-ca07-11f1-a9dd-7ced8de4076b
+DTSTART:20261012
+DTEND:20261106
+SUMMARY:Interchange Message: EARL'S COURT STATION: Until the end of service
+  on Thursday 5 November\, there will be no step-free access to/from the 
+ westbound District line. If you are starting a westbound step-free journey
+  at Earl's Court\, take an eastbound District line train to Victoria and 
+ change there for a westbound train. To complete a westbound step-free 
+ journey at Earl's Court\, take an Ealing Broadway or Richmond train to 
+ Hammersmith and change there for an eastbound train back to Earl's Court.
+END:VEVENT
+END:VCALENDAR

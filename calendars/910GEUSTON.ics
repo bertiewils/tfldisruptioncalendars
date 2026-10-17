@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+PRODID:-//github.com/allenporter/ical//11.1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20261017T084920Z
+UID:a4f784ce-ca07-11f1-a9dd-7ced8de4076b
+DTSTART:20261017
+DTEND:20261017
+SUMMARY:Information: LIONESS LINE: Saturday 17 and Sunday 18 October\, a 
+ reduced service will run between Kilburn High Road and Euston. On 
+ Saturday\, between 0630 and 2030\, trains departing Watford Junction at 30
+  minutes past each hour will terminate at Kilburn High Road. From 0715 
+ until 2115\, trains departing Euston at 15 minutes past each hour will 
+ start from Kilburn High Road. On Sunday\, between 1130 and 2030\,  trains 
+ departing Watford Junction at 30 minutes past each hour will terminate at 
+ Kilburn High Road. From 1215 until 2115\, trains departing Euston at 15 
+ minutes past each hour will start from Kilburn High Road
+END:VEVENT
+END:VCALENDAR
