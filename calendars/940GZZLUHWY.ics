@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//github.com/allenporter/ical//11.1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20261024T090727Z
+UID:55912326-cf8a-11f1-a9dd-6045bd04bda0
+DTSTART:20261024
+DTEND:20261024
+SUMMARY:Exit Only: HOLLOWAY ROAD STATION: Saturday 24 October\, between 
+ 1345 and 1500\, eastbound trains do not stop at the station due to a 
+ football match at Emirates Stadium. The station will operate as exit only 
+ at these times.
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261024T090727Z
+UID:55912327-cf8a-11f1-a9dd-6045bd04bda0
+DTSTART:20261024
+DTEND:20261024
+SUMMARY:Closure: HOLLOWAY ROAD STATION: Saturday 24 October\, between 1640 
+ and 1810\, the station will be closed due to a football match at Emirates 
+ Stadium.
+END:VEVENT
+END:VCALENDAR

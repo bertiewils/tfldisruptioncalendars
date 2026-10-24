@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//github.com/allenporter/ical//11.1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20261024T090732Z
+UID:58a1beda-cf8a-11f1-a9dd-6045bd04bda0
+DTSTART:20261024
+DTEND:20261025
+SUMMARY:Information: MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 
+ 25 October\, there will be a reduced service between Shepherds Bush and 
+ Clapham Junction.
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261024T090732Z
+UID:58a1bedb-cf8a-11f1-a9dd-6045bd04bda0
+DTSTART:20261024
+DTEND:20261026
+SUMMARY:Part Closure: DISTRICT LINE: Saturday 24 and Sunday 25 October\, no
+  service between Edgware Road / Embankment and Ealing Broadway / 
+ Kensington (Olympia) / Richmond / Wimbledon. Use MILDMAY LINE services 
+ between Gunnersbury\, Kew Gardens and Richmond. Replacement bus services 
+ operate. If travelling to Chelsea vs Tottenham Hotspur on Saturday 
+ evening\, please use the PICCADILLY LINE to/from Earls Court and continue 
+ at street level.
+END:VEVENT
+END:VCALENDAR
