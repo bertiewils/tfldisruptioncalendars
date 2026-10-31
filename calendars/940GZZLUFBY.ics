@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+PRODID:-//github.com/allenporter/ical//11.1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20261031T103552Z
+UID:d7c23e45-d516-11f1-9a2a-7ced8d54fddd
+DTSTART:20261031
+DTEND:20261031
+SUMMARY:Interchange Message: Chelsea vs Manchester United at Stamford 
+ Bridge on Saturday 31 October\, 1230 start: Fulham Broadway station will 
+ be busier than normal before and after the match. A queuing system and 
+ special matchday entrance in Wansdown Place will be in operation once the 
+ match has finished.
+END:VEVENT
+END:VCALENDAR

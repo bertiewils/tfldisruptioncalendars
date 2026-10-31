@@ -1,0 +1,33 @@
+BEGIN:VCALENDAR
+PRODID:-//github.com/allenporter/ical//11.1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20261031T103551Z
+UID:d7c23e41-d516-11f1-9a2a-7ced8d54fddd
+DTSTART:20261031
+DTEND:20261102
+SUMMARY:Part Closure: PICCADILLY LINE: Saturday 31 October\, from 0100\, 
+ and all day Sunday 1 November\, including Friday and Saturday Night Tube\,
+  no service on the entire line. Use ELIZABETH LINE services between 
+ Central London and Heathrow\, and METROPOLITAN LINE services between 
+ Rayners Lane and Uxbridge. Replacement bus services operate.
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261031T103551Z
+UID:d7c23e42-d516-11f1-9a2a-7ced8d54fddd
+DTSTART:20261026
+DTEND:20261109
+SUMMARY:Information: Finsbury Park: From Monday 26 October until Sunday 8 
+ November\, there will be no step-free access to/from the eastbound 
+ Piccadilly and northbound Victoria lines.
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261031T103551Z
+UID:d7c23e43-d516-11f1-9a2a-7ced8d54fddd
+DTSTART:20261026
+DTEND:20261101
+SUMMARY:Interchange Message: Finsbury Park: From Monday 26 October until 
+ Sunday 8 November\, there will be no step-free access to/from the 
+ eastbound Piccadilly and northbound Victoria lines.
+END:VEVENT
+END:VCALENDAR

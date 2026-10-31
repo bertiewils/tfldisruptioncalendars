@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+PRODID:-//github.com/allenporter/ical//11.1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20261031T103508Z
+UID:bdb91870-d516-11f1-9a2a-7ced8d54fddd
+DTSTART:20261026
+DTEND:20261109
+SUMMARY:Closure: BURNT OAK STATION: From Monday 26 October to Sunday 8 
+ November\, the station is closed. Please use local London Buses services.
+END:VEVENT
+END:VCALENDAR

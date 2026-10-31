@@ -1,0 +1,13 @@
+BEGIN:VCALENDAR
+PRODID:-//github.com/allenporter/ical//11.1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20261031T103543Z
+UID:d26d48ea-d516-11f1-9a2a-7ced8d54fddd
+DTSTART:20261030
+DTEND:20270501
+SUMMARY:Information: EMBANKMENT STATION: Until spring 2027\, there will be 
+ a reduced escalator service with alternative routes to the Bakerloo and 
+ Northern line platforms\, please allow extra time.
+END:VEVENT
+END:VCALENDAR

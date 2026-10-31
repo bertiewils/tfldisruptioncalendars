@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+PRODID:-//github.com/allenporter/ical//11.1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20261031T103505Z
+UID:bcdb0466-d516-11f1-9a2a-7ced8d54fddd
+DTSTART:20261031
+DTEND:20261102
+SUMMARY:Part Closure: WINDRUSH LINE: Saturday 31 October and Sunday 1 
+ November\, no service between New Cross Gate and West Croydon / Crystal 
+ Palace. In addition\, no SOUTHERN service between London Bridge and 
+ Crystal Palace / East Croydon via Forest Hill\, and THAMESLINK services 
+ via East Croydon do not call at London Bridge or Norwood Junction.  Rail 
+ replacement buses will run as follows: New Cross Gate - Brockley - Honor 
+ Oak Park - Forest Hill - Sydenham - Crystal Palace.
+END:VEVENT
+END:VCALENDAR

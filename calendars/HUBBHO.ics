@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+PRODID:-//github.com/allenporter/ical//11.1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20261031T103500Z
+UID:b990f018-d516-11f1-9a2a-7ced8d54fddd
+DTSTART:20261027
+DTEND:20261111
+SUMMARY:Part Closure: Suffragette Line: No service between South Tottenham 
+ and Barking Riverside\, until the end of service on Tuesday 10 November\, 
+ due to a operational incident. MINOR DELAYS on the rest of the line. 
+ London Underground and London Buses are accepting tickets via any 
+ reasonable routes.
+END:VEVENT
+END:VCALENDAR
