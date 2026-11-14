@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+PRODID:-//github.com/allenporter/ical//11.1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20261114T114553Z
+UID:2e39b6f4-e010-11f1-8000-002248b9509a
+DTSTART:20261114
+DTEND:20261115
+SUMMARY:Interchange Message: Chelsea Women vs Manchester City Women at 
+ Stamford Bridge on Saturday 14 November\, 1330 start: Fulham Broadway 
+ station will be busier than normal before and after the match. A queuing 
+ system and special matchday entrance in Wansdown Place will be in 
+ operation once the match has finished.
+END:VEVENT
+END:VCALENDAR

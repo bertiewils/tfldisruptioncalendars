@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//github.com/allenporter/ical//11.1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20261114T114659Z
+UID:563cf4c6-e010-11f1-8000-002248b9509a
+DTSTART:20261114
+DTEND:20261115
+SUMMARY:Part Closure: NORTHERN LINE: From 0130 Saturday 14 until 0130 
+ Sunday 15 November\, no service between Euston (Bank Branch) / Charing 
+ Cross and Morden / Battersea Power Station. There will be no Friday Night 
+ Tube service between Charing Cross and Morden. Replacement bus services 
+ operate during day hours only\, for Night journeys please use Night Bus 
+ services
+END:VEVENT
+END:VCALENDAR
