@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+PRODID:-//github.com/allenporter/ical//11.1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20261120T133552Z
+UID:8aaead9d-e4d6-11f1-8000-000d3a3ef234
+DTSTART:20261120
+DTEND:20261120
+SUMMARY:Information: LIONESS LINE: Friday 20 November\, the 2315 train from
+  Euston to Watford Junction will terminate at Willesden Junction at 2329
+END:VEVENT
+END:VCALENDAR

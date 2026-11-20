@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+PRODID:-//github.com/allenporter/ical//11.1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20261120T133643Z
+UID:a91bdfd4-e4d6-11f1-8000-000d3a3ef234
+DTSTART:20261118
+DTEND:20261127
+SUMMARY:Interchange Message: Liverpool Street: No Step Free Access - Until 
+ 26 November 2026\, no step free access between the National Rail concourse
+  and the eastbound Circle\, Hamm & City and Metropolitan lines due to 
+ planned lift maintenance. Use the Elizabeth line entrance on Broadgate for
+  step free access.
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//github.com/allenporter/ical//11.1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20261120T133555Z
+UID:8ba80fa7-e4d6-11f1-8000-000d3a3ef234
+DTSTART:20261120
+DTEND:20261121
+SUMMARY:Information: TUBE STRIKE: Piccadilly line service control staff are
+  planning to take strike action from Friday 20 until Saturday evening 21 
+ November. Piccadilly line customers should complete journeys by 1030 on 
+ Friday morning as service will begin to reduce after this time. There will
+  be no service from midday on Friday until Saturday evening\, including 
+ Night Tube on Friday night. Normal Night Tube service is expected to 
+ operate on Saturday night. Due to shared infrastructure around the Ealing 
+ Common District line depot\, there will be no DISTRICT LINE service 
+ between Earls Court and Richmond / Ealing Broadway from midday on Friday 
+ until Saturday evening. Replacement buses will operate during Friday Night
+  Tube hours and Saturday daytime only. Please use ELIZABETH LINE services 
+ for travel between Central London and Heathrow\, and METROPOLITAN LINE 
+ services between Rayners Lane and Uxbridge.
+END:VEVENT
+END:VCALENDAR
