@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+PRODID:-//github.com/allenporter/ical//11.1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20261128T133656Z
+UID:0357a83c-eb20-11f1-8000-70a8a527d0f0
+DTSTART:20261128
+DTEND:20261130
+SUMMARY:Part Closure: HAMMERSMITH & CITY LINE: Saturday 28 and Sunday 29 
+ November\, no service on the entire line. There will also be no CIRCLE 
+ LINE service between Hammersmith / High Street Kensington and Tower Hill 
+ (via Kings Cross St Pancras). Use DISTRICT LINE services between Aldgate 
+ East and Barking.
+END:VEVENT
+END:VCALENDAR

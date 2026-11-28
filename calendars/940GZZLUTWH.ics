@@ -1,0 +1,13 @@
+BEGIN:VCALENDAR
+PRODID:-//github.com/allenporter/ical//11.1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20261128T133640Z
+UID:fa71da06-eb1f-11f1-8000-70a8a527d0f0
+DTSTART:20261128
+DTEND:20261130
+SUMMARY:Part Closure: Circle Line : Saturday 28 and Sunday 29 November - No
+  service between Hammersmith and Tower Hill\, Edgware Road and High Street
+  Kensington due to planned engineering work.
+END:VEVENT
+END:VCALENDAR

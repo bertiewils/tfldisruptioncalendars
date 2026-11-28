@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//github.com/allenporter/ical//11.1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20261128T133633Z
+UID:f5b441e2-eb1f-11f1-8000-70a8a527d0f0
+DTSTART:20261128
+DTEND:20261130
+SUMMARY:Part Closure: WINDRUSH LINE: From 0100 Saturday 28 and all day 
+ Sunday 29 November\, including Friday and Saturday Night Overground\, no 
+ service between Highbury & Islington and Battersea Park / Clapham Junction
+  / New Cross / New Cross Gate. Use MILDMAY LINE services between Highbury 
+ & Islington\, Canonbury and Dalston Kingsland. Replacement bus services 
+ operate.
+END:VEVENT
+END:VCALENDAR
